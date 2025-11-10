@@ -1,0 +1,76 @@
+                                                                  INSTITUCION EDUCATIVA_TP
+                                                         PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                                        CICLO: 2024-1
+                                                                    TODAS LAS FACULTADES
+================================================================================================================================================================
+     ALUMNO                                        No. de Cursos  Suma Ponderada  No. de Creditos  Prom Ponderado   Facultad
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+20238549 - JUSTINO FORZANI ERICKA VICTORIA              12            752.00           56.00           62.67         FACULTAD DE ARQUITECTURA Y URBANISMO
+20205830 - FERNANDEZ ORTEGA ELIZABETH ELIZABETH         13            722.00           54.00           55.54         FACULTAD DE ARQUITECTURA Y URBANISMO
+20205844 - VILLA YALLICO TATIANA NANCY                  15            928.75           69.00           61.92         FACULTAD DE ARQUITECTURA Y URBANISMO
+20193373 - VASQUEZ PAZ ALEX MARTIN                      14            864.75           62.50           61.77         FACULTAD DE CIENCIAS E INGENIERIA
+20198922 - PAIRAZAMAN ALAMO MOISES MIGUEL               18           1073.25           81.50           59.62         FACULTAD DE DERECHO
+20209968 - PRADO VERGEL CARLOS JULIAN ANA                9            500.75           44.75           55.64         FACULTAD DE CIENCIAS E INGENIERIA
+20193769 - NORABUENA PRECIADO CINTHIA                   22           1176.00          102.75           53.45         FACULTAD DE ARQUITECTURA Y URBANISMO
+20226271 - VELASQUEZ HUAYANAY EDGARD HENRY              16            871.25           71.75           54.45         FACULTAD DE ARQUITECTURA Y URBANISMO
+20239652 - INGA FLORES CESAR ADOLFO                     15            910.50           70.50           60.70         FACULTAD DE CIENCIAS E INGENIERIA
+20194050 - CORRALES TSUKAZAN IRMA LOURDES               18            976.00           82.00           54.22         ESTUDIOS GENERALES CIENCIAS
+20195340 - CERNA DURAND MARTIN PEDRO                    14            754.75           62.50           53.91         ESTUDIOS GENERALES CIENCIAS
+20236102 - SALAS AGUERO DANIEL LUIS                     11            700.00           52.25           63.64         FACULTAD DE ARTE
+20237059 - CALDERON ORTEGA GUILLERMO JORGE              10            540.50           46.00           54.05         FACULTAD DE ARQUITECTURA Y URBANISMO
+20235440 - PORTUGAL BENAVENTE JOHANA GLORIA             16            980.50           70.50           61.28         ESTUDIOS GENERALES CIENCIAS
+20233583 - PALOMARES VERA HENRRY HUMBERTO               16            976.00           77.75           61.00         FACULTAD DE CIENCIAS E INGENIERIA
+20213075 - FLORIAN MORALES YDALI ROCIO                  16            851.50           71.00           53.22         ESTUDIOS GENERALES CIENCIAS
+20233816 - VALVERDE BERROCAL RONY GONZALO               14            822.75           63.75           58.77         FACULTAD DE ARQUITECTURA Y URBANISMO
+20231938 - MARTEL ASMAD BRUNO ROBERTO                   18            916.25           79.00           50.90         FACULTAD DE DERECHO
+20193984 - PAREDES PATINO CHRISTIAN RAUL FELIPE         10            393.25           44.75           39.33         ESTUDIOS GENERALES CIENCIAS
+20216619 - IBEROS VALDERRAMA RAFAEL                     13            813.25           60.75           62.56         FACULTAD DE CIENCIAS E INGENIERIA
+20197155 - JUSTINO CRUZ WILLIAMS PAUL                    9            493.75           41.25           54.86         FACULTAD DE DERECHO
+20196536 - BENAVENTE AYALA VIRGINIA IRMA                10            555.50           41.25           55.55         FACULTAD DE DERECHO
+20207741 - CABRERA CANALES GUILLERMO EDRIC              11            675.75           49.25           61.43         FACULTAD DE CIENCIAS E INGENIERIA
+20226455 - HENRIQUEZ ESPINO BEATRIZ FLAVIA              15            674.00           69.00           44.93         FACULTAD DE CIENCIAS E INGENIERIA
+20205864 - MALDONADO FLORIAN JOHANA SILVIA              10            646.50           46.50           64.65         ESTUDIOS GENERALES CIENCIAS
+20212697 - RETAMOSO BARRERA OSCAR JOSE                  14            657.25           57.00           46.95         FACULTAD DE DERECHO
+20197378 - VILLEGAS PALOMINO DORIS FREYSA               17            979.00           73.25           57.59         FACULTAD DE ARTE
+20222575 - YOSHINARI RIVERA PAUL                        19           1048.50           84.50           55.18         FACULTAD DE ARQUITECTURA Y URBANISMO
+20198845 - LANDEO SUELDO ADOLFO                         13            743.25           56.25           57.17         FACULTAD DE CIENCIAS E INGENIERIA
+20195244 - CORTEZ SEGURA CARMELA INES                   12            665.00           53.00           55.42         FACULTAD DE ARTE
+20219566 - MEDINA VELASQUEZ MILENA JENNY                22           1281.75           98.50           58.26         FACULTAD DE ARQUITECTURA Y URBANISMO
+20236905 - LAURA WONG MELVIN HENRRY                     11            691.25           49.25           62.84         FACULTAD DE CIENCIAS E INGENIERIA
+20198069 - AMEZQUITA EPIQUEN EVERT ROBERTO              14            652.50           58.50           46.61         FACULTAD DE DERECHO
+20208971 - SUAREZ BOLANOS RAFAEL FLAVIO                 13            725.00           55.25           55.77         FACULTAD DE ARQUITECTURA Y URBANISMO
+20221873 - HENRIQUEZ PORTUGAL ALEX                      12            740.00           59.00           61.67         FACULTAD DE ARTE
+20227724 - CORONEL CHUMPITAZ HELI KARIN                 16            778.50           69.75           48.66         FACULTAD DE CIENCIAS E INGENIERIA
+20191754 - MOYA ARANDA JOHNNY JUAN                      16            826.50           71.75           51.66         FACULTAD DE ARTE
+20238246 - RUIZ GORDILLO CAROLA ERIKA                   11            631.50           48.50           57.41         FACULTAD DE ARTE
+20193573 - ASMAD ACUNA ANNIE OFELIA                      9            493.00           35.50           54.78         FACULTAD DE CIENCIAS E INGENIERIA
+20195979 - MEJIA DE LA HAZA FRANCISCO EDGAR             15           1053.25           74.50           70.22         FACULTAD DE DERECHO
+20202687 - MORALES VALVERDE INES MARTHA                 15            867.25           64.50           57.82         FACULTAD DE ARQUITECTURA Y URBANISMO
+20218679 - AURIS ZIMIC JAVIER DANIEL                    17            978.50           75.00           57.56         FACULTAD DE ARTE
+20208940 - BARRIOS TOMASICHE CARLOS ALBERTO             13            719.50           60.50           55.35         FACULTAD DE ARQUITECTURA Y URBANISMO
+20192298 - CORREA VIZCARDO MIGUEL ANGEL                 14            667.50           57.50           47.68         FACULTAD DE ARTE
+20198434 - CHAVEZ PRADO SILVANA MARIA                   16           1017.75           66.00           63.61         FACULTAD DE DERECHO
+20224165 - MIYAKE MEREL MADELEINE YLIANA                14            716.00           64.75           51.14         FACULTAD DE DERECHO
+20218376 - LANDA PISCOYA CHRISTIAN                      16            986.00           74.50           61.62         FACULTAD DE CIENCIAS E INGENIERIA
+20211892 - GONZALES ARIAS HENRY JAMES                   15            762.00           62.75           50.80         FACULTAD DE CIENCIAS E INGENIERIA
+20193012 - CUBA PAIRAZAMAN ALBERTO RAUL                 14            669.25           59.50           47.80         FACULTAD DE DERECHO
+20217328 - ALAMO PAIRAZAMAN MIGUEL ROBERTO              11            618.00           51.75           56.18         FACULTAD DE ARTE
+20198608 - GORDILLO YINO YVONNE ROSARIO                 15            814.00           62.00           54.27         ESTUDIOS GENERALES CIENCIAS
+20193490 - CORONADO FIGUEROA JOHAN JOSE                 16            846.50           69.75           52.91         FACULTAD DE DERECHO
+20207053 - LOZADA YINO MARTHAVALERIA                    15            796.75           71.75           53.12         FACULTAD DE ARQUITECTURA Y URBANISMO
+20202031 - AQUINO TORO VALENTINA ROCIO                  11            638.75           48.50           58.07         FACULTAD DE ARTE
+20197557 - CARO POLO SANDRO                             13            638.75           57.25           49.13         ESTUDIOS GENERALES CIENCIAS
+20196245 - VEGA MUNOZ GONZALO TEOBALDO                  17           1024.50           77.75           60.26         FACULTAD DE DERECHO
+20229272 - CRUZ FUENTES JOHANA DALI                     18           1177.00           79.50           65.39         FACULTAD DE ARQUITECTURA Y URBANISMO
+20197374 - VILCARA CORREA VICTOR JUSTINO                 7            430.25           32.50           61.46         ESTUDIOS GENERALES CIENCIAS
+20236453 - ARCA AMEZQUITA EDRIC RONALD                  16            975.50           74.25           60.97         FACULTAD DE CIENCIAS E INGENIERIA
+20208175 - HIJAR YEP WILLIAMS CHRISTIAN                 15            834.00           65.50           55.60         FACULTAD DE ARQUITECTURA Y URBANISMO
+20224223 - PASQUEL QUIO SURAMI JANET                     5            372.50           22.50           74.50         FACULTAD DE ARTE
+20215248 - MEJIA HUAYANAY CHRISTIAN ALONSO              13            709.75           62.25           54.60         FACULTAD DE ARTE
+20219990 - ACUNA YINO ROCIO YOLANDA                      9            544.00           41.25           60.44         ESTUDIOS GENERALES CIENCIAS
+20193891 - CAMACHO AGUERO ELIA ROSA                     13            754.25           52.75           58.02         FACULTAD DE DERECHO
+20195764 - CALIXTO TOMASICHE MONICA DORIS               14            585.25           62.00           41.80         ESTUDIOS GENERALES CIENCIAS
+20231152 - HIJAR PAIRAZAMAN JENNY DELICIA                8            372.25           35.50           46.53         FACULTAD DE CIENCIAS E INGENIERIA
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Alumno con mayor numero de creditos matriculados:
+                             NORABUENA PRECIADO CINTHIA [20193769] con 102.75 creditos de la FACULTAD DE ARQUITECTURA Y URBANISMO
