@@ -1,0 +1,2156 @@
+
+===== LISTA DE DISTRITOS =====
+[1] LN3085 | Ancon | NORTE
+[2] LE3053 | Ate Vitarte | ESTE
+[3] LO1769 | Barranco | OESTE
+[4] LO4328 | Brena | OESTE
+[5] LN4803 | Carabayllo | NORTE
+[6] LO2220 | Cercado de Lima | OESTE
+[7] LE5926 | Chaclacayo | ESTE
+[8] LO1657 | Chorrillos | OESTE
+[9] LE3801 | Cieneguilla | ESTE
+[10] LN1439 | Comas | NORTE
+[11] LE7040 | El Agustino | ESTE
+[12] LN7093 | Independencia | NORTE
+[13] LO8667 | Jesus Maria | OESTE
+[14] LE3716 | La Molina | ESTE
+[15] LO7318 | La Victoria | OESTE
+[16] LO4311 | Lince | OESTE
+[17] LN7752 | Los Olivos | NORTE
+[18] LE9832 | Lurigancho | ESTE
+[19] LS8160 | Lurin | SUR
+[20] LO4439 | Magdalena del Mar | OESTE
+[21] LO6223 | Miraflores | OESTE
+[22] LS6184 | Pachacamac | SUR
+[23] LS3328 | Pucusana | SUR
+[24] LO5964 | Pueblo Libre | OESTE
+[25] LN8659 | Puente Piedra | NORTE
+[26] LS6092 | Punta Hermosa | SUR
+[27] LS3175 | Punta Negra | SUR
+[28] LO3562 | Rimac | OESTE
+[29] LS2020 | San Bartolo | SUR
+[30] LO3691 | San Borja | OESTE
+[31] LO9713 | San Isidro | OESTE
+[32] LE7894 | San Juan de Lurigancho | ESTE
+[33] LS2765 | San Juan de Miraflores | SUR
+[34] LE6936 | San Luis | ESTE
+[35] LN2958 | San Martin de Porres | NORTE
+[36] LO5817 | San Miguel | OESTE
+[37] LE4504 | Santa Anita | ESTE
+[38] LS3308 | Santa Maria del Mar | SUR
+[39] LN4826 | Santa Rosa | NORTE
+[40] LO9443 | Santiago de Surco | OESTE
+[41] LO9222 | Surquillo | OESTE
+[42] LS8280 | Villa El Salvador | SUR
+[43] LS8594 | Villa Maria del Triunfo | SUR
+
+===== LISTA DE PLATOS =====
+[1] AP-73428 | TEQUEÑOS | 19.50 | APERITIVO
+[2] PO-11283 | 2 BOLAS DE HELADO | 14.90 | POSTRES
+[3] BE-39584 | COCA COLA 1 LITRO | 15.50 | BEBIDAS
+[4] EN-77894 | ENSALADA SENSACION GRANDE CON POLLO | 32.90 | ENSALADAS
+[5] AD-53518 | PAPAS FRITAS | 15.90 | ADICIONAL
+[6] BR-15665 | 1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO | 50.90 | BRASA
+[7] EN-77606 | ENSALADA HONEY GRANDE SOLO | 24.90 | ENSALADAS
+[8] EN-77549 | ENSALADA COCIDA REGULAR | 18.90 | ENSALADAS
+[9] AD-90766 | ANTICUCHO DE CORAZON | 25.90 | ADICIONAL
+[10] BE-39747 | COCA COLA 1/2 LITRO | 7.00 | BEBIDAS
+[11] EN-77419 | ENSALADA DELICIA GRANDE CON POLLO | 31.90 | ENSALADAS
+[12] BE-39431 | CERVEZA CUSQUENA | 12.50 | BEBIDAS
+[13] BE-39738 | CERVEZA HEINEKEN | 18.90 | BEBIDAS
+[14] BR-15283 | 1/4 POLLO PARRILLERO ORIGINAL- ARROCERO | 33.50 | BRASA
+[15] BR-15365 | 1/4 POLLO BBQ/HOT ANTICUCHO | 44.90 | BRASA
+[16] SA-55338 | SANGUCHE BRASA | 22.90 | SANGUCHE
+[17] BE-39442 | LIMONADA 1 LITRO | 21.90 | BEBIDAS
+[18] EN-77691 | ENSALADA SENSACION MEDIANA CON POLLO | 23.90 | ENSALADAS
+[19] BE-39896 | VINO FINA RESERVA TINTO | 128.90 | BEBIDAS
+[20] PI-15153 | PIQUEOS MOLLEJITAS | 18.90 | PIQUEO
+[21] EN-77487 | ENSALADA CESARS GRANDE SOLO | 24.90 | ENSALADAS
+[22] PA-11871 | LOMO A LA PARRILLA | 54.90 | PARRILLA
+[23] BE-39851 | CASILLERO DEL DIABLO BLANCO | 73.90 | BEBIDAS
+[24] ES-31644 | CHICHARRON DE POLLO AL PLATO | 33.90 | ESPECIALES
+[25] BR-15950 | 1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO | 43.90 | BRASA
+[26] BR-15724 | 1/4 POLLO ENCAMOTADO | 31.50 | BRASA
+[27] EN-53265 | ANTICUCHO | 12.90 | ENTRADA
+[28] BE-39265 | TABERNERO GRAN TINTO | 49.90 | BEBIDAS
+[29] AD-53939 | TEQUENO | 4.90 | ADICIONAL
+[30] BE-39536 | SPRITE 1 LITRO | 15.50 | BEBIDAS
+[31] EN-77156 | ENSALADA COCIDA GRANDE | 22.90 | ENSALADAS
+[32] BR-15319 | 1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA | 47.90 | BRASA
+[33] PI-15404 | PIQUEOS BROCHETA | 17.90 | PIQUEO
+[34] BE-39955 | CASILLERO DEL DIABLO TINTO | 73.90 | BEBIDAS
+[35] BR-15297 | 1/2 POLLO BBQ/HOT ENCAMOTADO | 51.90 | BRASA
+[36] PI-15488 | PIQUEOS CHORIZOS COCKTAIL | 16.90 | PIQUEO
+[37] PI-15608 | PIQUEOS CHICHARRON DE POLLO | 27.90 | PIQUEO
+[38] BR-15378 | 1/4 POLLO ARROCERO | 33.50 | BRASA
+[39] BE-39137 | CERVEZA PILSEN | 12.00 | BEBIDAS
+[40] PA-11692 | PARRILLA PARA DOS | 89.90 | PARRILLA
+[41] BR-15578 | 1/4 POLLO A LO BRAVO | 33.50 | BRASA
+[42] PO-11621 | CHEESECAKE DE MARACUYA | 15.90 | POSTRES
+[43] AD-53377 | PLATANO | 3.90 | ADICIONAL
+[44] BE-39141 | CHICHA 1 LITRO | 21.90 | BEBIDAS
+[45] EN-77690 | ENSALADA CESARS GRANDE CON POLLO | 32.90 | ENSALADAS
+[46] BR-15272 | 1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO | 59.90 | BRASA
+[47] BR-15864 | 1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA | 32.50 | BRASA
+[48] EN-77381 | ENSALADA HONEY GRANDE CON POLLO | 32.90 | ENSALADAS
+[49] EN-90365 | MOLLEGITAS A LA PARRILLA | 25.90 | ENTRADA
+[50] BR-15136 | 1/2 POLLO BBQ/HOT ANTICUCHO | 60.50 | BRASA
+[51] BR-15142 | 1/2 POLLO BBQ/HOT A LO BRAVO | 52.90 | BRASA
+[52] PI-15392 | PIQUEOS ANTICUCHO | 18.90 | PIQUEO
+[53] EN-77214 | ENSALADA FRESCA GRANDE | 22.90 | ENSALADAS
+[54] BR-15116 | 1/2 POLLO ENCAMOTADO | 49.90 | BRASA
+[55] BR-15510 | 1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO | 35.90 | BRASA
+[56] BR-15326 | 1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO | 36.90 | BRASA
+[57] BR-15479 | 1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO | 51.90 | BRASA
+[58] BR-15921 | 1/4 POLLO PAPAS ENSALADA | 29.50 | BRASA
+[59] PO-11620 | CHEESECAKE DE FRESA | 15.90 | POSTRES
+[60] BR-15419 | 1/4 POLLO BBQ/HOT A LO BRAVO | 37.90 | BRASA
+[61] EN-77910 | ENSALADA DELICIA MEDIANA CON POLLO | 22.90 | ENSALADAS
+[62] SA-55330 | SANGUCHE PARRILLERO | 24.90 | SANGUCHE
+[63] AP-73500 | CHORIZOS COCKTAIL | 12.90 | APERITIVO
+[64] AD-53764 | PLATANO-HUEVO | 6.90 | ADICIONAL
+[65] PO-11751 | MAZAMORRA MORADA | 8.90 | POSTRES
+[66] BE-39695 | SANGRIA | 36.90 | BEBIDAS
+[67] PO-11731 | ARROZ CON LECHE | 8.90 | POSTRES
+[68] AD-53760 | ARROZ | 6.90 | ADICIONAL
+[69] BE-39227 | SPRITE1/2 LITRO | 7.00 | BEBIDAS
+[70] ES-31796 | ANTICUCHO DE CORAZON AL PLATO | 31.90 | ESPECIALES
+[71] EN-90758 | BROCHETAS DE POLLO | 25.90 | ENTRADA
+[72] BR-15197 | 1/2 POLLO ARROCERO | 47.50 | BRASA
+[73] EN-77572 | ENSALADA FRESCA REGULAR | 18.90 | ENSALADAS
+[74] AD-53502 | PORCION DE CAMOTE | 15.90 | ADICIONAL
+[75] BR-15611 | 1/2 POLLO PAPAS ENSALADA | 46.90 | BRASA
+[76] BE-39199 | LIMONADA 1 LITRO | 10.50 | BEBIDAS
+[77] BR-15926 | 1/2 POLLO BBQ/HOT ARROCERO | 49.90 | BRASA
+[78] BE-39489 | FANTA 1/2 LITRO | 7.00 | BEBIDAS
+[79] BR-15592 | 1/4 POLLO ANTICUCHO | 33.90 | BRASA
+[80] EN-77493 | ENSALADA CESARS MEDIANA CON POLLO | 23.90 | ENSALADAS
+[81] BR-15823 | 1/4 POLLO BBQ/HOT ENCAMOTADO | 36.90 | BRASA
+[82] PO-11611 | TRES LECHES | 15.90 | POSTRES
+[83] BR-15945 | 1/2 POLLO BBQ/HOT PAPAS ENSALADA | 48.90 | BRASA
+[84] EN-73410 | ANTICUCHO-POLLO | 12.90 | ENTRADA
+[85] PI-15539 | PIQUEOS MINI POLLITOS PANKO | 21.90 | PIQUEO
+[86] BE-39160 | INKA COLA 1 LITRO | 15.50 | BEBIDAS
+[87] BR-15621 | 1/4 POLLO BBQ/HOT PAPAS ENSALADA | 33.50 | BRASA
+[88] ES-31815 | MOLLEJITAS AL PLATO | 30.90 | ESPECIALES
+[89] BE-39864 | INKA COLA 1/2 LITRO | 7.00 | BEBIDAS
+[90] BR-15760 | 1/4 POLLO BBQ/HOT ARROCERO | 34.50 | BRASA
+[91] PO-11471 | 1 BOLA DE HELADO | 8.90 | POSTRES
+[92] PO-11172 | TORTA DE NARANJA | 15.90 | POSTRES
+[93] BE-39810 | INTIPALKA MALBEC | 71.90 | BEBIDAS
+[94] BR-15745 | 1/2 POLLO PARRILLERO ORIGINAL- ARROCERO | 48.90 | BRASA
+[95] BE-39475 | INTIPALKA SYRAH | 71.90 | BEBIDAS
+[96] BE-39903 | CHICHA1/2 LITRO | 10.50 | BEBIDAS
+[97] AD-53991 | HUEVO | 3.90 | ADICIONAL
+[98] AD-53957 | PAPAS FRITAS 1/2 PORCION | 10.90 | ADICIONAL
+[99] PO-11171 | TORTA DE CHOCOLATE | 15.90 | POSTRES
+[100] EN-77762 | ENSALADA DELICIA GRANDE SOLO | 23.90 | ENSALADAS
+[101] PA-11850 | BIFE A LA PARRILLA | 53.90 | PARRILLA
+[102] EN-77703 | ENSALADA SENSACION GRANDE SOLO | 24.90 | ENSALADAS
+[103] AD-53814 | PALTA | 9.90 | ADICIONAL
+[104] BE-39987 | FANTA 1 LITRO | 15.50 | BEBIDAS
+[105] PA-11500 | PARRILLA PARA CUATRO | 128.90 | PARRILLA
+[106] AD-53546 | CHOCLO | 9.90 | ADICIONAL
+[107] BR-15756 | 1/2 POLLO A LO BRAVO | 50.90 | BRASA
+[108] BR-15525 | 1/2 POLLO ANTICUCHO | 58.50 | BRASA
+[109] AD-53477 | PAPAS DORADAS | 15.90 | ADICIONAL
+[110] EN-77971 | ENSALADA HONEY MEDIANA CON POLLO | 23.90 | ENSALADAS
+
+===== LISTA DE CLIENTES =====
+
+Cliente 1: CORONEL CHUMPITAZ HELI (DNI 90367684)
+Distrito: LS8594
+Pedidos realizados: 27
+  --- Pedidos ---
+   Pedido 1: CodPedido 985837, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 1, Subtotal: S/ 30.90
+   Pedido 2: CodPedido 624251, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 5, Subtotal: S/ 64.50
+   Pedido 3: CodPedido 985837, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 4: CodPedido 229797, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 7, Subtotal: S/ 84.00
+   Pedido 5: CodPedido 244276, Plato AD-53814 (PALTA), Cantidad: 10, Subtotal: S/ 99.00
+   Pedido 6: CodPedido 244276, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 5, Subtotal: S/ 35.00
+   Pedido 7: CodPedido 229797, Plato AD-53518 (PAPAS FRITAS), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 8: CodPedido 229797, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 10, Subtotal: S/ 319.00
+   Pedido 9: CodPedido 624251, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 65.00
+   Pedido 10: CodPedido 244276, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 11: CodPedido 671441, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 12: CodPedido 229797, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 4, Subtotal: S/ 215.60
+   Pedido 13: CodPedido 229797, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 14: CodPedido 229797, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 4, Subtotal: S/ 111.60
+   Pedido 15: CodPedido 244276, Plato AP-73428 (TEQUEÑOS), Cantidad: 8, Subtotal: S/ 156.00
+   Pedido 16: CodPedido 624251, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 8, Subtotal: S/ 380.00
+   Pedido 17: CodPedido 229797, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 18: CodPedido 229797, Plato AP-73428 (TEQUEÑOS), Cantidad: 2, Subtotal: S/ 39.00
+   Pedido 19: CodPedido 985837, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 9, Subtotal: S/ 292.50
+   Pedido 20: CodPedido 671441, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 21: CodPedido 624251, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 3, Subtotal: S/ 92.70
+   Pedido 22: CodPedido 244276, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 23: CodPedido 437540, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 24: CodPedido 244276, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 167.30
+   Pedido 25: CodPedido 244276, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 8, Subtotal: S/ 84.00
+   Pedido 26: CodPedido 437540, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 27: CodPedido 229797, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 46.90
+Monto total del cliente: S/ 2972.50
+
+Cliente 2: HENRIQUEZ ESPINO BEATRIZ (DNI 99774549)
+Distrito: LO3691
+Pedidos realizados: 14
+  --- Pedidos ---
+   Pedido 1: CodPedido 647560, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 2: CodPedido 647560, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 50.90
+   Pedido 3: CodPedido 911467, Plato ES-31644 (CHICHARRON DE POLLO AL PLATO), Cantidad: 8, Subtotal: S/ 271.20
+   Pedido 4: CodPedido 647560, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 5: CodPedido 911467, Plato EN-53265 (ANTICUCHO), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 6: CodPedido 911467, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 5, Subtotal: S/ 259.50
+   Pedido 7: CodPedido 647560, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 8: CodPedido 647560, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 9: CodPedido 798625, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 9, Subtotal: S/ 170.10
+   Pedido 10: CodPedido 911467, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 11: CodPedido 798625, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 236.00
+   Pedido 12: CodPedido 911467, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 33.50
+   Pedido 13: CodPedido 911467, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 5, Subtotal: S/ 274.50
+   Pedido 14: CodPedido 911467, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 4, Subtotal: S/ 151.60
+Monto total del cliente: S/ 1945.40
+
+Cliente 3: CABRERA CANALES GUILLERMO EDRIC (DNI 63640178)
+Distrito: LO4439
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 304786, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 2: CodPedido 304786, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 3: CodPedido 304786, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 4, Subtotal: S/ 50.00
+   Pedido 4: CodPedido 899847, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 5: CodPedido 501322, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 6: CodPedido 169344, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 8, Subtotal: S/ 263.20
+   Pedido 7: CodPedido 501322, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 9, Subtotal: S/ 476.10
+   Pedido 8: CodPedido 304786, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 4, Subtotal: S/ 359.60
+Monto total del cliente: S/ 2099.70
+
+Cliente 4: LAURA WONG MELVIN HENRRY (DNI 66039166)
+Distrito: LO3562
+Pedidos realizados: 13
+  --- Pedidos ---
+   Pedido 1: CodPedido 449715, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 2: CodPedido 449715, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 4, Subtotal: S/ 190.00
+   Pedido 3: CodPedido 449715, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 2, Subtotal: S/ 61.80
+   Pedido 4: CodPedido 449715, Plato EN-53265 (ANTICUCHO), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 5: CodPedido 216753, Plato AD-53518 (PAPAS FRITAS), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 6: CodPedido 216753, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 7: CodPedido 216753, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 8: CodPedido 216753, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 46.90
+   Pedido 9: CodPedido 449715, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 10: CodPedido 449715, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 11: CodPedido 449715, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 3, Subtotal: S/ 158.70
+   Pedido 12: CodPedido 449715, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 13: CodPedido 449715, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+Monto total del cliente: S/ 955.90
+
+Cliente 5: CARO POLO SANDRO (DNI 20371464)
+Distrito: LE7894
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 745538, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 6, Subtotal: S/ 63.00
+   Pedido 2: CodPedido 745538, Plato AD-53814 (PALTA), Cantidad: 8, Subtotal: S/ 79.20
+   Pedido 3: CodPedido 636801, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 4: CodPedido 636801, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 4, Subtotal: S/ 111.60
+   Pedido 5: CodPedido 745538, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 6: CodPedido 636801, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 281.40
+Monto total del cliente: S/ 773.80
+
+Cliente 6: PORTUGAL BENAVENTE JOHANA GLORIA (DNI 35606314)
+Distrito: LO1657
+Pedidos realizados: 29
+  --- Pedidos ---
+   Pedido 1: CodPedido 292701, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 6, Subtotal: S/ 42.00
+   Pedido 2: CodPedido 988242, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 7, Subtotal: S/ 49.00
+   Pedido 3: CodPedido 292701, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 5, Subtotal: S/ 129.50
+   Pedido 4: CodPedido 988242, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 5: CodPedido 997002, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 6: CodPedido 411147, Plato PO-11611 (TRES LECHES), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 7: CodPedido 988242, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 4, Subtotal: S/ 199.60
+   Pedido 8: CodPedido 988242, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 9: CodPedido 292701, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 7, Subtotal: S/ 307.30
+   Pedido 10: CodPedido 292701, Plato PO-11611 (TRES LECHES), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 11: CodPedido 988242, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 12: CodPedido 997002, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 2, Subtotal: S/ 25.00
+   Pedido 13: CodPedido 411147, Plato EN-53265 (ANTICUCHO), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 14: CodPedido 411147, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 10, Subtotal: S/ 379.00
+   Pedido 15: CodPedido 411147, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 16: CodPedido 988242, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 1, Subtotal: S/ 24.90
+   Pedido 17: CodPedido 411147, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 18: CodPedido 988242, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 19: CodPedido 997002, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 20: CodPedido 292701, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 5, Subtotal: S/ 369.50
+   Pedido 21: CodPedido 997002, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 7, Subtotal: S/ 629.30
+   Pedido 22: CodPedido 292701, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 23: CodPedido 411147, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 415.20
+   Pedido 24: CodPedido 997002, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 25: CodPedido 988242, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 26: CodPedido 292701, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 27: CodPedido 411147, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 8, Subtotal: S/ 431.20
+   Pedido 28: CodPedido 292701, Plato AD-53377 (PLATANO), Cantidad: 9, Subtotal: S/ 35.10
+   Pedido 29: CodPedido 997002, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 3, Subtotal: S/ 20.70
+Monto total del cliente: S/ 5461.20
+
+Cliente 7: JUSTINO CRUZ WILLIAMS (DNI 35852072)
+Distrito: LE3053
+Pedidos realizados: 28
+  --- Pedidos ---
+   Pedido 1: CodPedido 871002, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 2: CodPedido 871002, Plato AD-53991 (HUEVO), Cantidad: 7, Subtotal: S/ 27.30
+   Pedido 3: CodPedido 321936, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 4: CodPedido 282358, Plato PO-11283 (2 BOLAS DE HELADO), Cantidad: 2, Subtotal: S/ 29.80
+   Pedido 5: CodPedido 377454, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 6: CodPedido 377454, Plato PO-11283 (2 BOLAS DE HELADO), Cantidad: 5, Subtotal: S/ 74.50
+   Pedido 7: CodPedido 181777, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 234.50
+   Pedido 8: CodPedido 321936, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 3, Subtotal: S/ 20.70
+   Pedido 9: CodPedido 181777, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 10: CodPedido 282358, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 9, Subtotal: S/ 251.10
+   Pedido 11: CodPedido 607099, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 1, Subtotal: S/ 60.50
+   Pedido 12: CodPedido 282358, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 9, Subtotal: S/ 63.00
+   Pedido 13: CodPedido 181777, Plato EN-77419 (ENSALADA DELICIA GRANDE CON POLLO), Cantidad: 2, Subtotal: S/ 63.80
+   Pedido 14: CodPedido 607099, Plato AD-53991 (HUEVO), Cantidad: 10, Subtotal: S/ 39.00
+   Pedido 15: CodPedido 871002, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 2, Subtotal: S/ 47.80
+   Pedido 16: CodPedido 282358, Plato AD-53518 (PAPAS FRITAS), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 17: CodPedido 282358, Plato BE-39896 (VINO FINA RESERVA TINTO), Cantidad: 9, Subtotal: S/ 1160.10
+   Pedido 18: CodPedido 607099, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 4, Subtotal: S/ 147.60
+   Pedido 19: CodPedido 377454, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 4, Subtotal: S/ 131.60
+   Pedido 20: CodPedido 181777, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 7, Subtotal: S/ 384.30
+   Pedido 21: CodPedido 377454, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 22: CodPedido 607099, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 23: CodPedido 871002, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 24: CodPedido 282358, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 25: CodPedido 377454, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+   Pedido 26: CodPedido 871002, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 4, Subtotal: S/ 147.60
+   Pedido 27: CodPedido 607099, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 28: CodPedido 282358, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+Monto total del cliente: S/ 4528.40
+
+Cliente 8: CAMACHO AGUERO ELIA ROSA (DNI 51465986)
+Distrito: LE3716
+Pedidos realizados: 2
+  --- Pedidos ---
+   Pedido 1: CodPedido 475132, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 1, Subtotal: S/ 34.50
+   Pedido 2: CodPedido 800857, Plato AD-53957 (PAPAS FRITAS 1/2 PORCION), Cantidad: 5, Subtotal: S/ 54.50
+Monto total del cliente: S/ 89.00
+
+Cliente 9: LANDA PISCOYA CHRISTIAN (DNI 79100967)
+Distrito: LN2958
+Pedidos realizados: 4
+  --- Pedidos ---
+   Pedido 1: CodPedido 589059, Plato ES-31644 (CHICHARRON DE POLLO AL PLATO), Cantidad: 9, Subtotal: S/ 305.10
+   Pedido 2: CodPedido 589059, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 3: CodPedido 589059, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 8, Subtotal: S/ 439.20
+   Pedido 4: CodPedido 589059, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 3, Subtotal: S/ 155.70
+Monto total del cliente: S/ 1067.50
+
+Cliente 10: BENAVENTE AYALA VIRGINIA IRMA (DNI 72973662)
+Distrito: LN7093
+Pedidos realizados: 12
+  --- Pedidos ---
+   Pedido 1: CodPedido 352468, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 2: CodPedido 579570, Plato AP-73428 (TEQUEÑOS), Cantidad: 3, Subtotal: S/ 58.50
+   Pedido 3: CodPedido 579570, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 9, Subtotal: S/ 63.00
+   Pedido 4: CodPedido 352468, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 5: CodPedido 579570, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 6: CodPedido 382606, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 3, Subtotal: S/ 68.70
+   Pedido 7: CodPedido 352468, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 8: CodPedido 352468, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 143.70
+   Pedido 9: CodPedido 352468, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 10: CodPedido 352468, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 11: CodPedido 579570, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 12: CodPedido 352468, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 1, Subtotal: S/ 22.90
+Monto total del cliente: S/ 1821.90
+
+Cliente 11: MIYAKE MEREL MADELEINE YLIANA (DNI 54149342)
+Distrito: LO2220
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 847248, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 2: CodPedido 403672, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 7, Subtotal: S/ 629.30
+   Pedido 3: CodPedido 423432, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 4: CodPedido 403672, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 7, Subtotal: S/ 230.30
+   Pedido 5: CodPedido 403672, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 6: CodPedido 847248, Plato EN-53265 (ANTICUCHO), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 7: CodPedido 847248, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 8: CodPedido 403672, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 4, Subtotal: S/ 50.00
+Monto total del cliente: S/ 1314.10
+
+Cliente 12: MEDINA VELASQUEZ MILENA JENNY (DNI 72330000)
+Distrito: LN2958
+Pedidos realizados: 27
+  --- Pedidos ---
+   Pedido 1: CodPedido 406983, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 4, Subtotal: S/ 87.60
+   Pedido 2: CodPedido 210959, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 3: CodPedido 980897, Plato AD-53518 (PAPAS FRITAS), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 4: CodPedido 980897, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 117.00
+   Pedido 5: CodPedido 980897, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 6: CodPedido 406983, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 7: CodPedido 406983, Plato BE-39987 (FANTA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 8: CodPedido 164900, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 10, Subtotal: S/ 309.00
+   Pedido 9: CodPedido 164900, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 8, Subtotal: S/ 252.00
+   Pedido 10: CodPedido 980897, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 11: CodPedido 210959, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 4, Subtotal: S/ 203.60
+   Pedido 12: CodPedido 210959, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 13: CodPedido 181340, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 4, Subtotal: S/ 242.00
+   Pedido 14: CodPedido 164900, Plato BE-39695 (SANGRIA), Cantidad: 1, Subtotal: S/ 36.90
+   Pedido 15: CodPedido 181340, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 1, Subtotal: S/ 23.90
+   Pedido 16: CodPedido 164900, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 17: CodPedido 980897, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 18: CodPedido 181340, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 19: CodPedido 164900, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 20: CodPedido 406983, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 9, Subtotal: S/ 427.50
+   Pedido 21: CodPedido 164900, Plato EN-53265 (ANTICUCHO), Cantidad: 5, Subtotal: S/ 64.50
+   Pedido 22: CodPedido 406983, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 23: CodPedido 181340, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 295.00
+   Pedido 24: CodPedido 980897, Plato EN-53265 (ANTICUCHO), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 25: CodPedido 210959, Plato AD-53377 (PLATANO), Cantidad: 2, Subtotal: S/ 7.80
+   Pedido 26: CodPedido 406983, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 27: CodPedido 181340, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 5, Subtotal: S/ 184.50
+Monto total del cliente: S/ 3622.60
+
+Cliente 13: CORREA VIZCARDO MIGUEL (DNI 31284904)
+Distrito: LO4328
+Pedidos realizados: 16
+  --- Pedidos ---
+   Pedido 1: CodPedido 309299, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 415.20
+   Pedido 2: CodPedido 309299, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 6, Subtotal: S/ 137.40
+   Pedido 3: CodPedido 997980, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 3, Subtotal: S/ 134.70
+   Pedido 4: CodPedido 647233, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 5: CodPedido 647233, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 6, Subtotal: S/ 149.40
+   Pedido 6: CodPedido 309299, Plato ES-31644 (CHICHARRON DE POLLO AL PLATO), Cantidad: 2, Subtotal: S/ 67.80
+   Pedido 7: CodPedido 549421, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 8: CodPedido 309299, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 7, Subtotal: S/ 265.30
+   Pedido 9: CodPedido 309299, Plato AD-53477 (PAPAS DORADAS), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 10: CodPedido 997980, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 10, Subtotal: S/ 259.00
+   Pedido 11: CodPedido 309299, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 7, Subtotal: S/ 377.30
+   Pedido 12: CodPedido 309299, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 7, Subtotal: S/ 384.30
+   Pedido 13: CodPedido 647233, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 14: CodPedido 309299, Plato EN-53265 (ANTICUCHO), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 15: CodPedido 997980, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 16: CodPedido 309299, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 100.50
+Monto total del cliente: S/ 2943.60
+
+Cliente 14: AMEZQUITA EPIQUEN EVERT ROBERTO (DNI 66091742)
+Distrito: LN1439
+Pedidos realizados: 17
+  --- Pedidos ---
+   Pedido 1: CodPedido 591433, Plato AD-53518 (PAPAS FRITAS), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 2: CodPedido 470947, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 3: CodPedido 409540, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 10, Subtotal: S/ 329.00
+   Pedido 4: CodPedido 470947, Plato AP-73428 (TEQUEÑOS), Cantidad: 8, Subtotal: S/ 156.00
+   Pedido 5: CodPedido 409540, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 3, Subtotal: S/ 74.70
+   Pedido 6: CodPedido 591433, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 7, Subtotal: S/ 223.30
+   Pedido 7: CodPedido 470947, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 4, Subtotal: S/ 42.00
+   Pedido 8: CodPedido 591433, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 7, Subtotal: S/ 241.50
+   Pedido 9: CodPedido 591433, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 4, Subtotal: S/ 48.00
+   Pedido 10: CodPedido 591433, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 7, Subtotal: S/ 87.50
+   Pedido 11: CodPedido 591433, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 375.20
+   Pedido 12: CodPedido 591433, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 13: CodPedido 470947, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 5, Subtotal: S/ 35.00
+   Pedido 14: CodPedido 470947, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 15: CodPedido 409540, Plato AD-53546 (CHOCLO), Cantidad: 8, Subtotal: S/ 79.20
+   Pedido 16: CodPedido 470947, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 17: CodPedido 591433, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 195.00
+Monto total del cliente: S/ 2358.90
+
+Cliente 15: CRUZ FUENTES JOHANA YDALI (DNI 93961840)
+Distrito: LS8594
+Pedidos realizados: 18
+  --- Pedidos ---
+   Pedido 1: CodPedido 872028, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 6, Subtotal: S/ 155.40
+   Pedido 2: CodPedido 872028, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 1, Subtotal: S/ 43.90
+   Pedido 3: CodPedido 872028, Plato PO-11283 (2 BOLAS DE HELADO), Cantidad: 8, Subtotal: S/ 119.20
+   Pedido 4: CodPedido 872028, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 5: CodPedido 872028, Plato EN-77762 (ENSALADA DELICIA GRANDE SOLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 6: CodPedido 732996, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 5, Subtotal: S/ 302.50
+   Pedido 7: CodPedido 732996, Plato AD-53991 (HUEVO), Cantidad: 5, Subtotal: S/ 19.50
+   Pedido 8: CodPedido 872028, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 9: CodPedido 497376, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 10: CodPedido 732996, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 9, Subtotal: S/ 265.50
+   Pedido 11: CodPedido 872028, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 12: CodPedido 497376, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 13: CodPedido 872028, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 315.00
+   Pedido 14: CodPedido 497376, Plato EN-77419 (ENSALADA DELICIA GRANDE CON POLLO), Cantidad: 2, Subtotal: S/ 63.80
+   Pedido 15: CodPedido 732996, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 16: CodPedido 497376, Plato BR-15326 (1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 4, Subtotal: S/ 147.60
+   Pedido 17: CodPedido 732996, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 18: CodPedido 732996, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 2, Subtotal: S/ 25.80
+Monto total del cliente: S/ 2588.30
+
+Cliente 16: YOSHINARI RIVERA PAUL (DNI 32538825)
+Distrito: LO5964
+Pedidos realizados: 29
+  --- Pedidos ---
+   Pedido 1: CodPedido 621974, Plato AD-53546 (CHOCLO), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 2: CodPedido 155553, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 6, Subtotal: S/ 167.40
+   Pedido 3: CodPedido 801974, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 4: CodPedido 320690, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 9, Subtotal: S/ 467.10
+   Pedido 5: CodPedido 801974, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 6: CodPedido 621974, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 9, Subtotal: S/ 94.50
+   Pedido 7: CodPedido 155553, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 6, Subtotal: S/ 131.40
+   Pedido 8: CodPedido 801974, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 8, Subtotal: S/ 407.20
+   Pedido 9: CodPedido 621974, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 4, Subtotal: S/ 48.00
+   Pedido 10: CodPedido 155553, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 6, Subtotal: S/ 149.40
+   Pedido 11: CodPedido 155553, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 6, Subtotal: S/ 137.40
+   Pedido 12: CodPedido 621974, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 13: CodPedido 320690, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 14: CodPedido 621974, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 7, Subtotal: S/ 503.30
+   Pedido 15: CodPedido 801974, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 325.00
+   Pedido 16: CodPedido 621974, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 5, Subtotal: S/ 224.50
+   Pedido 17: CodPedido 320690, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 6, Subtotal: S/ 72.00
+   Pedido 18: CodPedido 801974, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 2, Subtotal: S/ 99.80
+   Pedido 19: CodPedido 320690, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 5, Subtotal: S/ 64.50
+   Pedido 20: CodPedido 320690, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 2, Subtotal: S/ 49.80
+   Pedido 21: CodPedido 155553, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 22: CodPedido 320690, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 3, Subtotal: S/ 103.50
+   Pedido 23: CodPedido 320690, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 8, Subtotal: S/ 439.20
+   Pedido 24: CodPedido 155553, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 5, Subtotal: S/ 369.50
+   Pedido 25: CodPedido 621974, Plato AD-53518 (PAPAS FRITAS), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 26: CodPedido 155553, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 27: CodPedido 621974, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 183.20
+   Pedido 28: CodPedido 155553, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 449.10
+   Pedido 29: CodPedido 621974, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 479.00
+Monto total del cliente: S/ 5871.80
+
+Cliente 17: ASMAD ACUNA ANNIE OFELIA (DNI 94683380)
+Distrito: LN7093
+Pedidos realizados: 16
+  --- Pedidos ---
+   Pedido 1: CodPedido 981884, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 4, Subtotal: S/ 203.60
+   Pedido 2: CodPedido 981884, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 3: CodPedido 981884, Plato AD-53957 (PAPAS FRITAS 1/2 PORCION), Cantidad: 7, Subtotal: S/ 76.30
+   Pedido 4: CodPedido 981884, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 335.00
+   Pedido 5: CodPedido 835027, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 2, Subtotal: S/ 21.00
+   Pedido 6: CodPedido 835027, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 7: CodPedido 981884, Plato AP-73428 (TEQUEÑOS), Cantidad: 6, Subtotal: S/ 117.00
+   Pedido 8: CodPedido 835027, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 9: CodPedido 823450, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 2, Subtotal: S/ 87.80
+   Pedido 10: CodPedido 823450, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 7, Subtotal: S/ 181.30
+   Pedido 11: CodPedido 835027, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 12: CodPedido 981884, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 1, Subtotal: S/ 34.50
+   Pedido 13: CodPedido 981884, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 10, Subtotal: S/ 585.00
+   Pedido 14: CodPedido 981884, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 15: CodPedido 835027, Plato AD-53814 (PALTA), Cantidad: 1, Subtotal: S/ 9.90
+   Pedido 16: CodPedido 981884, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 4, Subtotal: S/ 28.00
+Monto total del cliente: S/ 1971.20
+
+Cliente 18: CHAVEZ PRADO SILVANA (DNI 59561864)
+Distrito: LO9443
+Pedidos realizados: 28
+  --- Pedidos ---
+   Pedido 1: CodPedido 906990, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 2: CodPedido 906990, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 3: CodPedido 590880, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 6, Subtotal: S/ 131.40
+   Pedido 4: CodPedido 906990, Plato BE-39442 (LIMONADA 1 LITRO), Cantidad: 7, Subtotal: S/ 153.30
+   Pedido 5: CodPedido 947313, Plato BE-39695 (SANGRIA), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 6: CodPedido 947313, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 7: CodPedido 459459, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 95.80
+   Pedido 8: CodPedido 590880, Plato BE-39695 (SANGRIA), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 9: CodPedido 590880, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 9, Subtotal: S/ 467.10
+   Pedido 10: CodPedido 906990, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 356.30
+   Pedido 11: CodPedido 947313, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 12: CodPedido 906990, Plato AD-53518 (PAPAS FRITAS), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 13: CodPedido 459459, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 9, Subtotal: S/ 647.10
+   Pedido 14: CodPedido 947313, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 15: CodPedido 947313, Plato EN-77894 (ENSALADA SENSACION GRANDE CON POLLO), Cantidad: 7, Subtotal: S/ 230.30
+   Pedido 16: CodPedido 459459, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 1, Subtotal: S/ 44.90
+   Pedido 17: CodPedido 906990, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 7, Subtotal: S/ 356.30
+   Pedido 18: CodPedido 906990, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 8, Subtotal: S/ 56.00
+   Pedido 19: CodPedido 947313, Plato AD-53502 (PORCION DE CAMOTE), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 20: CodPedido 590880, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 21: CodPedido 906990, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 22: CodPedido 947313, Plato BR-15592 (1/4 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 67.80
+   Pedido 23: CodPedido 590880, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 88.50
+   Pedido 24: CodPedido 906990, Plato AD-53377 (PLATANO), Cantidad: 7, Subtotal: S/ 27.30
+   Pedido 25: CodPedido 459459, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 26: CodPedido 590880, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 27: CodPedido 459459, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 8, Subtotal: S/ 84.00
+   Pedido 28: CodPedido 947313, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 4, Subtotal: S/ 28.00
+Monto total del cliente: S/ 5208.10
+
+Cliente 19: DE LA CUBA ALBERTO PAIRAZAMAN (DNI 61061535)
+Distrito: LO5964
+Pedidos realizados: 21
+  --- Pedidos ---
+   Pedido 1: CodPedido 125328, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 2: CodPedido 125328, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 8, Subtotal: S/ 84.00
+   Pedido 3: CodPedido 782674, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 10, Subtotal: S/ 719.00
+   Pedido 4: CodPedido 145715, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 3, Subtotal: S/ 74.70
+   Pedido 5: CodPedido 145715, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 1, Subtotal: S/ 51.90
+   Pedido 6: CodPedido 145715, Plato AD-53546 (CHOCLO), Cantidad: 6, Subtotal: S/ 59.40
+   Pedido 7: CodPedido 125328, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 8: CodPedido 125328, Plato AD-53991 (HUEVO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 9: CodPedido 145715, Plato BE-39695 (SANGRIA), Cantidad: 2, Subtotal: S/ 73.80
+   Pedido 10: CodPedido 782674, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 3, Subtotal: S/ 149.70
+   Pedido 11: CodPedido 125328, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 12: CodPedido 145715, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 13: CodPedido 125328, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 295.20
+   Pedido 14: CodPedido 125328, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 88.50
+   Pedido 15: CodPedido 125328, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 4, Subtotal: S/ 138.00
+   Pedido 16: CodPedido 562940, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 3, Subtotal: S/ 77.70
+   Pedido 17: CodPedido 782674, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 10, Subtotal: S/ 449.00
+   Pedido 18: CodPedido 145715, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 2, Subtotal: S/ 25.00
+   Pedido 19: CodPedido 145715, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 20: CodPedido 562940, Plato AP-73428 (TEQUEÑOS), Cantidad: 6, Subtotal: S/ 117.00
+   Pedido 21: CodPedido 782674, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 191.60
+Monto total del cliente: S/ 3520.80
+
+Cliente 20: GORDILLO YINO YVONNE ROSARIO (DNI 22679759)
+Distrito: LN7752
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 735717, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 2: CodPedido 413102, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 50.90
+   Pedido 3: CodPedido 413102, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 4: CodPedido 931918, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 5, Subtotal: S/ 129.50
+   Pedido 5: CodPedido 931918, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 6: CodPedido 413102, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 1, Subtotal: S/ 34.50
+   Pedido 7: CodPedido 931918, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 8, Subtotal: S/ 431.20
+   Pedido 8: CodPedido 931918, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 8, Subtotal: S/ 439.20
+   Pedido 9: CodPedido 931918, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 95.80
+   Pedido 10: CodPedido 735717, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 10, Subtotal: S/ 329.00
+   Pedido 11: CodPedido 413102, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 10, Subtotal: S/ 189.00
+   Pedido 12: CodPedido 413102, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 8, Subtotal: S/ 56.00
+   Pedido 13: CodPedido 413102, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 14: CodPedido 931918, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 15: CodPedido 931918, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 2, Subtotal: S/ 37.80
+Monto total del cliente: S/ 2212.50
+
+Cliente 21: MARTEL ASMAD BRUNO ROBERTO (DNI 53420926)
+Distrito: LE7040
+Pedidos realizados: 26
+  --- Pedidos ---
+   Pedido 1: CodPedido 119991, Plato BE-39810 (INTIPALKA MALBEC), Cantidad: 5, Subtotal: S/ 359.50
+   Pedido 2: CodPedido 366421, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 3: CodPedido 499778, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 4: CodPedido 119991, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 5: CodPedido 119991, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 6: CodPedido 366421, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 9, Subtotal: S/ 404.10
+   Pedido 7: CodPedido 366421, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 4, Subtotal: S/ 295.60
+   Pedido 8: CodPedido 499778, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 9: CodPedido 499778, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 7, Subtotal: S/ 230.30
+   Pedido 10: CodPedido 499778, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 2, Subtotal: S/ 147.80
+   Pedido 11: CodPedido 499778, Plato EN-53265 (ANTICUCHO), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 12: CodPedido 119991, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 5, Subtotal: S/ 219.50
+   Pedido 13: CodPedido 366421, Plato AD-53546 (CHOCLO), Cantidad: 3, Subtotal: S/ 29.70
+   Pedido 14: CodPedido 119991, Plato BE-39442 (LIMONADA 1 LITRO), Cantidad: 9, Subtotal: S/ 197.10
+   Pedido 15: CodPedido 119991, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 6, Subtotal: S/ 75.00
+   Pedido 16: CodPedido 366421, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 2, Subtotal: S/ 121.00
+   Pedido 17: CodPedido 366421, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 7, Subtotal: S/ 181.30
+   Pedido 18: CodPedido 499778, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 4, Subtotal: S/ 359.60
+   Pedido 19: CodPedido 366421, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 2, Subtotal: S/ 35.80
+   Pedido 20: CodPedido 499778, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 9, Subtotal: S/ 112.50
+   Pedido 21: CodPedido 119991, Plato PA-11500 (PARRILLA PARA CUATRO), Cantidad: 3, Subtotal: S/ 386.70
+   Pedido 22: CodPedido 366421, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 23: CodPedido 119991, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 24: CodPedido 366421, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 25: CodPedido 499778, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 26: CodPedido 119991, Plato AD-53477 (PAPAS DORADAS), Cantidad: 3, Subtotal: S/ 47.70
+Monto total del cliente: S/ 4631.20
+
+Cliente 22: HIJAR YEP WILLIAMS CHRISTIAN (DNI 37282858)
+Distrito: LO5817
+Pedidos realizados: 4
+  --- Pedidos ---
+   Pedido 1: CodPedido 222201, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 2: CodPedido 222201, Plato AD-53546 (CHOCLO), Cantidad: 4, Subtotal: S/ 39.60
+   Pedido 3: CodPedido 222201, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 1, Subtotal: S/ 24.90
+   Pedido 4: CodPedido 222201, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 6, Subtotal: S/ 75.00
+Monto total del cliente: S/ 217.00
+
+Cliente 23: CALDERON ORTEGA GUILLERMO (DNI 34571095)
+Distrito: LN4826
+Pedidos realizados: 14
+  --- Pedidos ---
+   Pedido 1: CodPedido 547395, Plato AD-53991 (HUEVO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 2: CodPedido 930732, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 215.10
+   Pedido 3: CodPedido 930732, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 4: CodPedido 930732, Plato PO-11611 (TRES LECHES), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 5: CodPedido 547395, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 6, Subtotal: S/ 323.40
+   Pedido 6: CodPedido 547395, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 9, Subtotal: S/ 809.10
+   Pedido 7: CodPedido 547395, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 8: CodPedido 930732, Plato BE-39810 (INTIPALKA MALBEC), Cantidad: 8, Subtotal: S/ 575.20
+   Pedido 9: CodPedido 547395, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 10: CodPedido 547395, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 11: CodPedido 930732, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 1, Subtotal: S/ 24.90
+   Pedido 12: CodPedido 547395, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 13: CodPedido 547395, Plato ES-31644 (CHICHARRON DE POLLO AL PLATO), Cantidad: 5, Subtotal: S/ 169.50
+   Pedido 14: CodPedido 541680, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 5, Subtotal: S/ 259.50
+Monto total del cliente: S/ 3285.90
+
+Cliente 24: SUAREZ BOLANOS RAFAEL (DNI 93282118)
+Distrito: LO6223
+Pedidos realizados: 0
+Monto total del cliente: S/ 0.00
+
+Cliente 25: IBEROS VALDERRAMA RAFAEL (DNI 86836066)
+Distrito: LO8667
+Pedidos realizados: 26
+  --- Pedidos ---
+   Pedido 1: CodPedido 577242, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 2: CodPedido 577242, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 3: CodPedido 744073, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 2, Subtotal: S/ 17.80
+   Pedido 4: CodPedido 414904, Plato AD-53518 (PAPAS FRITAS), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 5: CodPedido 577242, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 6: CodPedido 744073, Plato EN-90365 (MOLLEGITAS A LA PARRILLA), Cantidad: 4, Subtotal: S/ 103.60
+   Pedido 7: CodPedido 414904, Plato EN-77894 (ENSALADA SENSACION GRANDE CON POLLO), Cantidad: 6, Subtotal: S/ 197.40
+   Pedido 8: CodPedido 744073, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 9: CodPedido 414904, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 10: CodPedido 744073, Plato PA-11500 (PARRILLA PARA CUATRO), Cantidad: 5, Subtotal: S/ 644.50
+   Pedido 11: CodPedido 414904, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 2, Subtotal: S/ 101.80
+   Pedido 12: CodPedido 744073, Plato BR-15926 (1/2 POLLO BBQ/HOT ARROCERO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 13: CodPedido 414904, Plato PI-15488 (PIQUEOS CHORIZOS COCKTAIL), Cantidad: 8, Subtotal: S/ 135.20
+   Pedido 14: CodPedido 744073, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 15: CodPedido 744073, Plato EN-77894 (ENSALADA SENSACION GRANDE CON POLLO), Cantidad: 6, Subtotal: S/ 197.40
+   Pedido 16: CodPedido 577242, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 17: CodPedido 577242, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 6, Subtotal: S/ 207.00
+   Pedido 18: CodPedido 744073, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 7, Subtotal: S/ 90.30
+   Pedido 19: CodPedido 414904, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 20: CodPedido 577242, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 50.90
+   Pedido 21: CodPedido 744073, Plato PO-11621 (CHEESECAKE DE MARACUYA), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 22: CodPedido 414904, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 23: CodPedido 414904, Plato BE-39987 (FANTA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 24: CodPedido 577242, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 6, Subtotal: S/ 143.40
+   Pedido 25: CodPedido 577242, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 26: CodPedido 414904, Plato AD-53477 (PAPAS DORADAS), Cantidad: 8, Subtotal: S/ 127.20
+Monto total del cliente: S/ 3807.20
+
+Cliente 26: VILCARA CORREA VICTOR (DNI 57182371)
+Distrito: LS8280
+Pedidos realizados: 29
+  --- Pedidos ---
+   Pedido 1: CodPedido 356862, Plato PO-11611 (TRES LECHES), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 2: CodPedido 496123, Plato PO-11611 (TRES LECHES), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 3: CodPedido 873741, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 479.00
+   Pedido 4: CodPedido 496123, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 5: CodPedido 356862, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 5, Subtotal: S/ 259.50
+   Pedido 6: CodPedido 356862, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 9, Subtotal: S/ 494.10
+   Pedido 7: CodPedido 356862, Plato EN-53265 (ANTICUCHO), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 8: CodPedido 788134, Plato PO-11611 (TRES LECHES), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 9: CodPedido 788134, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 10, Subtotal: S/ 439.00
+   Pedido 10: CodPedido 496123, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 4, Subtotal: S/ 103.60
+   Pedido 11: CodPedido 496123, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 12: CodPedido 496123, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 8, Subtotal: S/ 351.20
+   Pedido 13: CodPedido 356862, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 5, Subtotal: S/ 189.50
+   Pedido 14: CodPedido 356862, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 97.50
+   Pedido 15: CodPedido 788134, Plato AD-53814 (PALTA), Cantidad: 10, Subtotal: S/ 99.00
+   Pedido 16: CodPedido 496123, Plato AD-53377 (PLATANO), Cantidad: 10, Subtotal: S/ 39.00
+   Pedido 17: CodPedido 356862, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 18: CodPedido 356862, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 8, Subtotal: S/ 431.20
+   Pedido 19: CodPedido 356862, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 20: CodPedido 780654, Plato BR-15926 (1/2 POLLO BBQ/HOT ARROCERO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 21: CodPedido 788134, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 22: CodPedido 496123, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 6, Subtotal: S/ 42.00
+   Pedido 23: CodPedido 496123, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 315.00
+   Pedido 24: CodPedido 788134, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 4, Subtotal: S/ 151.60
+   Pedido 25: CodPedido 788134, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 10, Subtotal: S/ 309.00
+   Pedido 26: CodPedido 788134, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 27: CodPedido 873741, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 4, Subtotal: S/ 199.60
+   Pedido 28: CodPedido 873741, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 2, Subtotal: S/ 143.80
+   Pedido 29: CodPedido 788134, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 1, Subtotal: S/ 31.50
+Monto total del cliente: S/ 6237.40
+
+Cliente 27: VALVERDE BERROCAL RONY GONZALO (DNI 43704548)
+Distrito: LO4439
+Pedidos realizados: 18
+  --- Pedidos ---
+   Pedido 1: CodPedido 234730, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 7, Subtotal: S/ 342.30
+   Pedido 2: CodPedido 234730, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 7, Subtotal: S/ 174.30
+   Pedido 3: CodPedido 973050, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 9, Subtotal: S/ 80.10
+   Pedido 4: CodPedido 234730, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 47.90
+   Pedido 5: CodPedido 973050, Plato AD-53546 (CHOCLO), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 6: CodPedido 973050, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 7, Subtotal: S/ 423.50
+   Pedido 7: CodPedido 973050, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 3, Subtotal: S/ 77.70
+   Pedido 8: CodPedido 234730, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 2, Subtotal: S/ 65.80
+   Pedido 9: CodPedido 234730, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 1, Subtotal: S/ 8.90
+   Pedido 10: CodPedido 973050, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 11: CodPedido 234730, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 12: CodPedido 973050, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 2, Subtotal: S/ 35.80
+   Pedido 13: CodPedido 234730, Plato AD-53377 (PLATANO), Cantidad: 8, Subtotal: S/ 31.20
+   Pedido 14: CodPedido 973050, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 10, Subtotal: S/ 449.00
+   Pedido 15: CodPedido 234730, Plato EN-53265 (ANTICUCHO), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 16: CodPedido 234730, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 6, Subtotal: S/ 201.00
+   Pedido 17: CodPedido 973050, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 9, Subtotal: S/ 301.50
+   Pedido 18: CodPedido 973050, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 10, Subtotal: S/ 189.00
+Monto total del cliente: S/ 3071.60
+
+Cliente 28: HENRIQUEZ PORTUGAL ALEX (DNI 12484697)
+Distrito: LO2220
+Pedidos realizados: 18
+  --- Pedidos ---
+   Pedido 1: CodPedido 684365, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 2: CodPedido 747751, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 3, Subtotal: S/ 92.70
+   Pedido 3: CodPedido 684365, Plato AD-53518 (PAPAS FRITAS), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 4: CodPedido 747751, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 2, Subtotal: S/ 45.80
+   Pedido 5: CodPedido 684365, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 10, Subtotal: S/ 125.00
+   Pedido 6: CodPedido 747751, Plato EN-53265 (ANTICUCHO), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 7: CodPedido 684365, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 3, Subtotal: S/ 20.70
+   Pedido 8: CodPedido 991107, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 9, Subtotal: S/ 341.10
+   Pedido 9: CodPedido 991107, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 6, Subtotal: S/ 311.40
+   Pedido 10: CodPedido 747751, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 4, Subtotal: S/ 147.60
+   Pedido 11: CodPedido 747751, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 12: CodPedido 747751, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 5, Subtotal: S/ 157.50
+   Pedido 13: CodPedido 146940, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 7, Subtotal: S/ 363.30
+   Pedido 14: CodPedido 684365, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+   Pedido 15: CodPedido 146940, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+   Pedido 16: CodPedido 747751, Plato BE-39695 (SANGRIA), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 17: CodPedido 684365, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 18: CodPedido 991107, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+Monto total del cliente: S/ 2916.30
+
+Cliente 29: GONZALES ARIAS HENRY (DNI 17299012)
+Distrito: LE7894
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 381370, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 5, Subtotal: S/ 179.50
+   Pedido 2: CodPedido 381370, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 1, Subtotal: S/ 25.90
+   Pedido 3: CodPedido 381370, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 6, Subtotal: S/ 189.00
+   Pedido 4: CodPedido 381370, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 3, Subtotal: S/ 21.00
+   Pedido 5: CodPedido 381370, Plato AD-53377 (PLATANO), Cantidad: 10, Subtotal: S/ 39.00
+   Pedido 6: CodPedido 381370, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 7: CodPedido 381370, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 5, Subtotal: S/ 219.50
+   Pedido 8: CodPedido 381370, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 9, Subtotal: S/ 112.50
+Monto total del cliente: S/ 883.90
+
+Cliente 30: RETAMOSO BARRERA OSCAR (DNI 99891737)
+Distrito: LO2220
+Pedidos realizados: 0
+Monto total del cliente: S/ 0.00
+
+Cliente 31: MALDONADO FLORIAN JOHANA (DNI 91187814)
+Distrito: LE4504
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 442735, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 10, Subtotal: S/ 155.00
+   Pedido 2: CodPedido 513457, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 5, Subtotal: S/ 52.50
+   Pedido 3: CodPedido 442735, Plato AD-53518 (PAPAS FRITAS), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 4: CodPedido 998079, Plato BE-39695 (SANGRIA), Cantidad: 10, Subtotal: S/ 369.00
+   Pedido 5: CodPedido 998079, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 4, Subtotal: S/ 242.00
+   Pedido 6: CodPedido 442735, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 5, Subtotal: S/ 254.50
+   Pedido 7: CodPedido 915369, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 5, Subtotal: S/ 224.50
+   Pedido 8: CodPedido 998079, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 5, Subtotal: S/ 249.50
+   Pedido 9: CodPedido 442735, Plato AD-53377 (PLATANO), Cantidad: 9, Subtotal: S/ 35.10
+   Pedido 10: CodPedido 998079, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 6, Subtotal: S/ 63.00
+   Pedido 11: CodPedido 915369, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 12: CodPedido 998079, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 3, Subtotal: S/ 37.50
+   Pedido 13: CodPedido 998079, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 4, Subtotal: S/ 147.60
+   Pedido 14: CodPedido 513457, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 15: CodPedido 513457, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 6, Subtotal: S/ 143.40
+Monto total del cliente: S/ 2352.80
+
+Cliente 32: ACUNA YINO ROCIO YOLANDA (DNI 36471787)
+Distrito: LO5964
+Pedidos realizados: 28
+  --- Pedidos ---
+   Pedido 1: CodPedido 261051, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 5, Subtotal: S/ 254.50
+   Pedido 2: CodPedido 652574, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 1, Subtotal: S/ 51.90
+   Pedido 3: CodPedido 479977, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 6, Subtotal: S/ 63.00
+   Pedido 4: CodPedido 426905, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 5: CodPedido 807876, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 2, Subtotal: S/ 147.80
+   Pedido 6: CodPedido 516696, Plato EN-53265 (ANTICUCHO), Cantidad: 6, Subtotal: S/ 77.40
+   Pedido 7: CodPedido 807876, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 10, Subtotal: S/ 719.00
+   Pedido 8: CodPedido 261051, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 4, Subtotal: S/ 190.00
+   Pedido 9: CodPedido 261051, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 10: CodPedido 807876, Plato AD-53939 (TEQUENO), Cantidad: 8, Subtotal: S/ 39.20
+   Pedido 11: CodPedido 479977, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 3, Subtotal: S/ 71.70
+   Pedido 12: CodPedido 807876, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 215.10
+   Pedido 13: CodPedido 261051, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 195.00
+   Pedido 14: CodPedido 516696, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 15: CodPedido 807876, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 415.20
+   Pedido 16: CodPedido 261051, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 7, Subtotal: S/ 90.30
+   Pedido 17: CodPedido 516696, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 1, Subtotal: S/ 73.90
+   Pedido 18: CodPedido 807876, Plato BE-39810 (INTIPALKA MALBEC), Cantidad: 6, Subtotal: S/ 431.40
+   Pedido 19: CodPedido 261051, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 4, Subtotal: S/ 123.60
+   Pedido 20: CodPedido 261051, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 21: CodPedido 479977, Plato AD-53814 (PALTA), Cantidad: 10, Subtotal: S/ 99.00
+   Pedido 22: CodPedido 807876, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 2, Subtotal: S/ 89.80
+   Pedido 23: CodPedido 807876, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 499.00
+   Pedido 24: CodPedido 261051, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 25: CodPedido 479977, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 26: CodPedido 516696, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 1, Subtotal: S/ 18.90
+   Pedido 27: CodPedido 261051, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 6, Subtotal: S/ 113.40
+   Pedido 28: CodPedido 652574, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 3, Subtotal: S/ 37.50
+Monto total del cliente: S/ 5106.30
+
+Cliente 33: VILLEGAS PALOMINO DORIS FREYSA (DNI 81647285)
+Distrito: LE7894
+Pedidos realizados: 23
+  --- Pedidos ---
+   Pedido 1: CodPedido 553475, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 325.00
+   Pedido 2: CodPedido 604991, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 3, Subtotal: S/ 146.70
+   Pedido 3: CodPedido 604991, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 4: CodPedido 604991, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 4, Subtotal: S/ 134.00
+   Pedido 5: CodPedido 262598, Plato AD-53518 (PAPAS FRITAS), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 6: CodPedido 904805, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 7: CodPedido 904805, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 3, Subtotal: S/ 221.70
+   Pedido 8: CodPedido 604991, Plato BE-39695 (SANGRIA), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 9: CodPedido 904805, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 10: CodPedido 604991, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 11: CodPedido 604991, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 12: CodPedido 262598, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 13: CodPedido 904805, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 8, Subtotal: S/ 380.00
+   Pedido 14: CodPedido 553475, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 15: CodPedido 553475, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 93.80
+   Pedido 16: CodPedido 604991, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 17: CodPedido 604991, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 18: CodPedido 904805, Plato EN-53265 (ANTICUCHO), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 19: CodPedido 904805, Plato AD-53814 (PALTA), Cantidad: 4, Subtotal: S/ 39.60
+   Pedido 20: CodPedido 553475, Plato AD-53518 (PAPAS FRITAS), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 21: CodPedido 604991, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 449.10
+   Pedido 22: CodPedido 904805, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 8, Subtotal: S/ 468.00
+   Pedido 23: CodPedido 904805, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 1, Subtotal: S/ 8.90
+Monto total del cliente: S/ 3974.50
+
+Cliente 34: BARRIOS TOMASICHE CARLOS ALBERTO (DNI 15290194)
+Distrito: LS8280
+Pedidos realizados: 12
+  --- Pedidos ---
+   Pedido 1: CodPedido 152386, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 2: CodPedido 152386, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 3: CodPedido 152386, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 8, Subtotal: S/ 247.20
+   Pedido 4: CodPedido 611173, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 5: CodPedido 152386, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 6: CodPedido 152386, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 7: CodPedido 611173, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 162.50
+   Pedido 8: CodPedido 152386, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 95.00
+   Pedido 9: CodPedido 611173, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 1, Subtotal: S/ 47.50
+   Pedido 10: CodPedido 152386, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 11: CodPedido 152386, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 12: CodPedido 152386, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 7, Subtotal: S/ 227.50
+Monto total del cliente: S/ 1735.20
+
+Cliente 35: MEJIA HUAYANAY CHRISTIAN ALONSO (DNI 45914393)
+Distrito: LO3691
+Pedidos realizados: 21
+  --- Pedidos ---
+   Pedido 1: CodPedido 797896, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 9, Subtotal: S/ 63.00
+   Pedido 2: CodPedido 240169, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 3: CodPedido 797896, Plato AD-53814 (PALTA), Cantidad: 5, Subtotal: S/ 49.50
+   Pedido 4: CodPedido 797896, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 5, Subtotal: S/ 52.50
+   Pedido 5: CodPedido 797896, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 5, Subtotal: S/ 114.50
+   Pedido 6: CodPedido 931456, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 7: CodPedido 156439, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 8: CodPedido 240169, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 9: CodPedido 931456, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 2, Subtotal: S/ 47.80
+   Pedido 10: CodPedido 156439, Plato AD-53939 (TEQUENO), Cantidad: 10, Subtotal: S/ 49.00
+   Pedido 11: CodPedido 156439, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 140.70
+   Pedido 12: CodPedido 931456, Plato AP-73428 (TEQUEÑOS), Cantidad: 7, Subtotal: S/ 136.50
+   Pedido 13: CodPedido 240169, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 8, Subtotal: S/ 591.20
+   Pedido 14: CodPedido 156439, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 15: CodPedido 797896, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 16: CodPedido 156439, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 5, Subtotal: S/ 64.50
+   Pedido 17: CodPedido 156439, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 18: CodPedido 156439, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 19: CodPedido 156439, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 5, Subtotal: S/ 274.50
+   Pedido 20: CodPedido 240169, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 6, Subtotal: S/ 201.00
+   Pedido 21: CodPedido 797896, Plato AP-73428 (TEQUEÑOS), Cantidad: 7, Subtotal: S/ 136.50
+Monto total del cliente: S/ 3099.20
+
+Cliente 36: FLORIAN MORALES YDALI (DNI 54815159)
+Distrito: LO5964
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 874983, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 2: CodPedido 874983, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 3: CodPedido 874983, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 9, Subtotal: S/ 485.10
+   Pedido 4: CodPedido 874983, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 8, Subtotal: S/ 439.20
+   Pedido 5: CodPedido 539094, Plato PI-15488 (PIQUEOS CHORIZOS COCKTAIL), Cantidad: 2, Subtotal: S/ 33.80
+   Pedido 6: CodPedido 539094, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 1, Subtotal: S/ 51.90
+   Pedido 7: CodPedido 874983, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 4, Subtotal: S/ 103.60
+   Pedido 8: CodPedido 874983, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 7, Subtotal: S/ 335.30
+   Pedido 9: CodPedido 874983, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 9, Subtotal: S/ 143.10
+Monto total del cliente: S/ 1818.80
+
+Cliente 37: MOYA ARANDA JOHNNY (DNI 85395219)
+Distrito: LE7894
+Pedidos realizados: 10
+  --- Pedidos ---
+   Pedido 1: CodPedido 900971, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 9, Subtotal: S/ 647.10
+   Pedido 2: CodPedido 900971, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 4, Subtotal: S/ 179.60
+   Pedido 3: CodPedido 943088, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 4: CodPedido 943088, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 1, Subtotal: S/ 58.50
+   Pedido 5: CodPedido 900971, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 383.20
+   Pedido 6: CodPedido 900971, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 7: CodPedido 900971, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 8, Subtotal: S/ 84.00
+   Pedido 8: CodPedido 943088, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 1, Subtotal: S/ 8.90
+   Pedido 9: CodPedido 943088, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 10: CodPedido 900971, Plato AD-53518 (PAPAS FRITAS), Cantidad: 4, Subtotal: S/ 63.60
+Monto total del cliente: S/ 1977.20
+
+Cliente 38: CORTEZ SEGURA CARMELA INES (DNI 13731806)
+Distrito: LO3562
+Pedidos realizados: 0
+Monto total del cliente: S/ 0.00
+
+Cliente 39: VEGA MUNOZ GONZALO (DNI 75100362)
+Distrito: LO5964
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 528967, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 10, Subtotal: S/ 489.00
+   Pedido 2: CodPedido 423765, Plato PA-11500 (PARRILLA PARA CUATRO), Cantidad: 2, Subtotal: S/ 257.80
+   Pedido 3: CodPedido 289957, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 5, Subtotal: S/ 184.50
+   Pedido 4: CodPedido 528967, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 3, Subtotal: S/ 31.50
+   Pedido 5: CodPedido 528967, Plato BE-39987 (FANTA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 6: CodPedido 289957, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 315.00
+   Pedido 7: CodPedido 289957, Plato BE-39695 (SANGRIA), Cantidad: 2, Subtotal: S/ 73.80
+   Pedido 8: CodPedido 528967, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 10, Subtotal: S/ 229.00
+   Pedido 9: CodPedido 289957, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 3, Subtotal: S/ 37.50
+   Pedido 10: CodPedido 289957, Plato EN-53265 (ANTICUCHO), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 11: CodPedido 423765, Plato AD-53477 (PAPAS DORADAS), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 12: CodPedido 289957, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 13: CodPedido 289957, Plato AD-53814 (PALTA), Cantidad: 4, Subtotal: S/ 39.60
+   Pedido 14: CodPedido 289957, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 9, Subtotal: S/ 296.10
+   Pedido 15: CodPedido 289957, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 6, Subtotal: S/ 185.40
+Monto total del cliente: S/ 2503.90
+
+Cliente 40: HIJAR PAIRAZAMAN JENNY DELICIA (DNI 68269451)
+Distrito: LE3716
+Pedidos realizados: 19
+  --- Pedidos ---
+   Pedido 1: CodPedido 482635, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 2: CodPedido 460522, Plato AD-53939 (TEQUENO), Cantidad: 8, Subtotal: S/ 39.20
+   Pedido 3: CodPedido 460522, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 119.50
+   Pedido 4: CodPedido 781312, Plato EN-77762 (ENSALADA DELICIA GRANDE SOLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 5: CodPedido 255034, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 6: CodPedido 368734, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 3, Subtotal: S/ 31.50
+   Pedido 7: CodPedido 255034, Plato AD-53991 (HUEVO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 8: CodPedido 482635, Plato BE-39695 (SANGRIA), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 9: CodPedido 781312, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 9, Subtotal: S/ 544.50
+   Pedido 10: CodPedido 482635, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 11: CodPedido 368734, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 12: CodPedido 482635, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 2, Subtotal: S/ 21.00
+   Pedido 13: CodPedido 255034, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 4, Subtotal: S/ 51.60
+   Pedido 14: CodPedido 368734, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 15: CodPedido 255034, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 5, Subtotal: S/ 184.50
+   Pedido 16: CodPedido 255034, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 97.80
+   Pedido 17: CodPedido 255034, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 18: CodPedido 255034, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 167.30
+   Pedido 19: CodPedido 255034, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 4, Subtotal: S/ 242.00
+Monto total del cliente: S/ 3182.60
+
+Cliente 41: ALAMO PAIRAZAMAN MIGUEL ROBERTO (DNI 86988155)
+Distrito: LE4504
+Pedidos realizados: 26
+  --- Pedidos ---
+   Pedido 1: CodPedido 769193, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 8, Subtotal: S/ 223.20
+   Pedido 2: CodPedido 328363, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 95.00
+   Pedido 3: CodPedido 769193, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 1, Subtotal: S/ 49.90
+   Pedido 4: CodPedido 211001, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 5, Subtotal: S/ 62.50
+   Pedido 5: CodPedido 769193, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 3, Subtotal: S/ 65.70
+   Pedido 6: CodPedido 769193, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 8, Subtotal: S/ 591.20
+   Pedido 7: CodPedido 328363, Plato EN-53265 (ANTICUCHO), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 8: CodPedido 142128, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 9: CodPedido 142128, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 10: CodPedido 769193, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 33.50
+   Pedido 11: CodPedido 328363, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 8, Subtotal: S/ 71.20
+   Pedido 12: CodPedido 211001, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 3, Subtotal: S/ 74.70
+   Pedido 13: CodPedido 328363, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 5, Subtotal: S/ 369.50
+   Pedido 14: CodPedido 211001, Plato BE-39695 (SANGRIA), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 15: CodPedido 211001, Plato AD-53546 (CHOCLO), Cantidad: 9, Subtotal: S/ 89.10
+   Pedido 16: CodPedido 694238, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 1, Subtotal: S/ 27.90
+   Pedido 17: CodPedido 769193, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 2, Subtotal: S/ 103.80
+   Pedido 18: CodPedido 211001, Plato BE-39810 (INTIPALKA MALBEC), Cantidad: 9, Subtotal: S/ 647.10
+   Pedido 19: CodPedido 694238, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 20: CodPedido 142128, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 21: CodPedido 211001, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 22: CodPedido 328363, Plato AD-53814 (PALTA), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 23: CodPedido 211001, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 10, Subtotal: S/ 519.00
+   Pedido 24: CodPedido 328363, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 4, Subtotal: S/ 234.00
+   Pedido 25: CodPedido 211001, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 3, Subtotal: S/ 98.70
+   Pedido 26: CodPedido 769193, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 1, Subtotal: S/ 22.90
+Monto total del cliente: S/ 3930.00
+
+Cliente 42: CORONADO FIGUEROA JOHAN (DNI 77440060)
+Distrito: LE4504
+Pedidos realizados: 2
+  --- Pedidos ---
+   Pedido 1: CodPedido 426890, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 2, Subtotal: S/ 47.80
+   Pedido 2: CodPedido 426890, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+Monto total del cliente: S/ 156.30
+
+Cliente 43: RUIZ GORDILLO CAROLA ERIKA (DNI 68114999)
+Distrito: LN1439
+Pedidos realizados: 7
+  --- Pedidos ---
+   Pedido 1: CodPedido 117660, Plato AP-73428 (TEQUEÑOS), Cantidad: 3, Subtotal: S/ 58.50
+   Pedido 2: CodPedido 117660, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 1, Subtotal: S/ 43.90
+   Pedido 3: CodPedido 117660, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 10, Subtotal: S/ 259.00
+   Pedido 4: CodPedido 333221, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 4, Subtotal: S/ 242.00
+   Pedido 5: CodPedido 117660, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 4, Subtotal: S/ 28.00
+   Pedido 6: CodPedido 117660, Plato PO-11611 (TRES LECHES), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 7: CodPedido 117660, Plato AD-53377 (PLATANO), Cantidad: 4, Subtotal: S/ 15.60
+Monto total del cliente: S/ 678.80
+
+Cliente 44: CALIXTO TOMASICHE MONICA DORIS (DNI 92275859)
+Distrito: LE7040
+Pedidos realizados: 14
+  --- Pedidos ---
+   Pedido 1: CodPedido 707266, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 2: CodPedido 707266, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 117.00
+   Pedido 3: CodPedido 707266, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 9, Subtotal: S/ 427.50
+   Pedido 4: CodPedido 707266, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 5: CodPedido 707266, Plato EN-53265 (ANTICUCHO), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 6: CodPedido 707266, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 7: CodPedido 707266, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 8: CodPedido 490445, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 9: CodPedido 707266, Plato AD-53814 (PALTA), Cantidad: 9, Subtotal: S/ 89.10
+   Pedido 10: CodPedido 490445, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 10, Subtotal: S/ 105.00
+   Pedido 11: CodPedido 490445, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 12: CodPedido 456530, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 4, Subtotal: S/ 127.60
+   Pedido 13: CodPedido 490445, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 356.30
+   Pedido 14: CodPedido 707266, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+Monto total del cliente: S/ 2715.10
+
+Cliente 45: ANTEZANO SEGURA TERESA DELIA (DNI 28992638)
+Distrito: LO6223
+Pedidos realizados: 5
+  --- Pedidos ---
+   Pedido 1: CodPedido 414669, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 2: CodPedido 251809, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 3: CodPedido 414669, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 4: CodPedido 251809, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 5: CodPedido 414669, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 8, Subtotal: S/ 56.00
+Monto total del cliente: S/ 509.80
+
+Cliente 46: ZARATE DEL POZO HUMBERTO ANTONIO (DNI 71422479)
+Distrito: LS8280
+Pedidos realizados: 27
+  --- Pedidos ---
+   Pedido 1: CodPedido 804501, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 3, Subtotal: S/ 215.70
+   Pedido 2: CodPedido 842138, Plato AD-53377 (PLATANO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 3: CodPedido 765579, Plato BR-15272 (1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 6, Subtotal: S/ 359.40
+   Pedido 4: CodPedido 158069, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 469.00
+   Pedido 5: CodPedido 765579, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 6: CodPedido 158069, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 7, Subtotal: S/ 370.30
+   Pedido 7: CodPedido 158069, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 10, Subtotal: S/ 70.00
+   Pedido 8: CodPedido 158069, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 7, Subtotal: S/ 503.30
+   Pedido 9: CodPedido 504011, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 10: CodPedido 842138, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 3, Subtotal: S/ 77.70
+   Pedido 11: CodPedido 842138, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 12: CodPedido 158069, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 13: CodPedido 504011, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 14: CodPedido 765579, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 15: CodPedido 765579, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 10, Subtotal: S/ 69.00
+   Pedido 16: CodPedido 765579, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 2, Subtotal: S/ 21.00
+   Pedido 17: CodPedido 504011, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 4, Subtotal: S/ 71.60
+   Pedido 18: CodPedido 765579, Plato EN-90365 (MOLLEGITAS A LA PARRILLA), Cantidad: 8, Subtotal: S/ 207.20
+   Pedido 19: CodPedido 765579, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 1, Subtotal: S/ 58.50
+   Pedido 20: CodPedido 842138, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 35.90
+   Pedido 21: CodPedido 842138, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 22: CodPedido 842138, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 10, Subtotal: S/ 439.00
+   Pedido 23: CodPedido 158069, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 7, Subtotal: S/ 73.50
+   Pedido 24: CodPedido 158069, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 3, Subtotal: S/ 46.50
+   Pedido 25: CodPedido 158069, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 3, Subtotal: S/ 152.70
+   Pedido 26: CodPedido 504011, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 9, Subtotal: S/ 143.10
+   Pedido 27: CodPedido 804501, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 1, Subtotal: S/ 34.50
+Monto total del cliente: S/ 4057.60
+
+Cliente 47: GAVIDIA MENDOZA RONALD JOHNNY (DNI 25062013)
+Distrito: LE7894
+Pedidos realizados: 17
+  --- Pedidos ---
+   Pedido 1: CodPedido 748120, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 3, Subtotal: S/ 158.70
+   Pedido 2: CodPedido 531671, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 3: CodPedido 531671, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 4, Subtotal: S/ 27.60
+   Pedido 4: CodPedido 748120, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 6, Subtotal: S/ 305.40
+   Pedido 5: CodPedido 748120, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 10, Subtotal: S/ 479.00
+   Pedido 6: CodPedido 748120, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 7, Subtotal: S/ 87.50
+   Pedido 7: CodPedido 531671, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 8: CodPedido 531671, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 3, Subtotal: S/ 269.70
+   Pedido 9: CodPedido 138949, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 10: CodPedido 138949, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 6, Subtotal: S/ 185.40
+   Pedido 11: CodPedido 531671, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 3, Subtotal: S/ 36.00
+   Pedido 12: CodPedido 531671, Plato AD-53760 (ARROZ), Cantidad: 8, Subtotal: S/ 55.20
+   Pedido 13: CodPedido 138949, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 162.50
+   Pedido 14: CodPedido 748120, Plato BR-15592 (1/4 POLLO ANTICUCHO), Cantidad: 1, Subtotal: S/ 33.90
+   Pedido 15: CodPedido 748120, Plato AD-53518 (PAPAS FRITAS), Cantidad: 3, Subtotal: S/ 47.70
+   Pedido 16: CodPedido 748120, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 17: CodPedido 531671, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 9, Subtotal: S/ 458.10
+Monto total del cliente: S/ 2949.10
+
+Cliente 48: PATINO CHUNG BEATRIZ ROSA (DNI 49357767)
+Distrito: LN2958
+Pedidos realizados: 21
+  --- Pedidos ---
+   Pedido 1: CodPedido 534157, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 2, Subtotal: S/ 49.80
+   Pedido 2: CodPedido 983446, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 3: CodPedido 534157, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+   Pedido 4: CodPedido 711123, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 1, Subtotal: S/ 18.90
+   Pedido 5: CodPedido 983446, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 3, Subtotal: S/ 158.70
+   Pedido 6: CodPedido 711123, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 7: CodPedido 711123, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 8: CodPedido 534157, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 9, Subtotal: S/ 449.10
+   Pedido 9: CodPedido 299977, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 10: CodPedido 534157, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 11: CodPedido 534157, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 12: CodPedido 953707, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 1, Subtotal: S/ 24.90
+   Pedido 13: CodPedido 299977, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 14: CodPedido 711123, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 10, Subtotal: S/ 605.00
+   Pedido 15: CodPedido 711123, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 10, Subtotal: S/ 509.00
+   Pedido 16: CodPedido 983446, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 3, Subtotal: S/ 221.70
+   Pedido 17: CodPedido 534157, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 18: CodPedido 983446, Plato PO-11621 (CHEESECAKE DE MARACUYA), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 19: CodPedido 534157, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 10, Subtotal: S/ 70.00
+   Pedido 20: CodPedido 953707, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 287.40
+   Pedido 21: CodPedido 711123, Plato AD-53377 (PLATANO), Cantidad: 8, Subtotal: S/ 31.20
+Monto total del cliente: S/ 3882.30
+
+Cliente 49: SEGURA MALCA RONY (DNI 51873364)
+Distrito: LO3562
+Pedidos realizados: 29
+  --- Pedidos ---
+   Pedido 1: CodPedido 406406, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 449.10
+   Pedido 2: CodPedido 236975, Plato AD-53760 (ARROZ), Cantidad: 8, Subtotal: S/ 55.20
+   Pedido 3: CodPedido 236975, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 143.70
+   Pedido 4: CodPedido 406406, Plato BR-15611 (1/2 POLLO PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 187.60
+   Pedido 5: CodPedido 236975, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 7, Subtotal: S/ 363.30
+   Pedido 6: CodPedido 304497, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 7: CodPedido 406406, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 6, Subtotal: S/ 72.00
+   Pedido 8: CodPedido 832902, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 3, Subtotal: S/ 215.70
+   Pedido 9: CodPedido 406406, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 1, Subtotal: S/ 12.50
+   Pedido 10: CodPedido 304497, Plato AP-73428 (TEQUEÑOS), Cantidad: 9, Subtotal: S/ 175.50
+   Pedido 11: CodPedido 304497, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 8, Subtotal: S/ 56.00
+   Pedido 12: CodPedido 236975, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 2, Subtotal: S/ 71.80
+   Pedido 13: CodPedido 406406, Plato PO-11611 (TRES LECHES), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 14: CodPedido 304497, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 15: CodPedido 832902, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 143.70
+   Pedido 16: CodPedido 236975, Plato AD-53502 (PORCION DE CAMOTE), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 17: CodPedido 304497, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 10, Subtotal: S/ 105.00
+   Pedido 18: CodPedido 406406, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 19: CodPedido 304497, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 20: CodPedido 304497, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 21: CodPedido 406406, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 8, Subtotal: S/ 415.20
+   Pedido 22: CodPedido 236975, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 23: CodPedido 217929, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 24: CodPedido 217929, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 5, Subtotal: S/ 44.50
+   Pedido 25: CodPedido 236975, Plato ES-31644 (CHICHARRON DE POLLO AL PLATO), Cantidad: 6, Subtotal: S/ 203.40
+   Pedido 26: CodPedido 832902, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 9, Subtotal: S/ 94.50
+   Pedido 27: CodPedido 236975, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 5, Subtotal: S/ 167.50
+   Pedido 28: CodPedido 406406, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 2, Subtotal: S/ 65.80
+   Pedido 29: CodPedido 304497, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 9, Subtotal: S/ 458.10
+Monto total del cliente: S/ 4615.00
+
+Cliente 50: FARFAN FALCON ELIZABETH KARIN (DNI 95656771)
+Distrito: LO9222
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 421210, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 2: CodPedido 421210, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 7, Subtotal: S/ 363.30
+   Pedido 3: CodPedido 991438, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 4: CodPedido 421210, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 10, Subtotal: S/ 219.00
+   Pedido 5: CodPedido 421210, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 6: CodPedido 421210, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 7: CodPedido 991438, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 8: CodPedido 991438, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 9, Subtotal: S/ 404.10
+   Pedido 9: CodPedido 991438, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 1, Subtotal: S/ 17.90
+   Pedido 10: CodPedido 421210, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 8, Subtotal: S/ 223.20
+   Pedido 11: CodPedido 991438, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 2, Subtotal: S/ 51.80
+   Pedido 12: CodPedido 991438, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 9, Subtotal: S/ 544.50
+   Pedido 13: CodPedido 421210, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 499.00
+   Pedido 14: CodPedido 421210, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 15: CodPedido 991438, Plato AD-53546 (CHOCLO), Cantidad: 1, Subtotal: S/ 9.90
+Monto total del cliente: S/ 3737.50
+
+Cliente 51: SUCHERO EPIQUEN EDGAR JAVIER (DNI 30246960)
+Distrito: LO4328
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 314078, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 2: CodPedido 314078, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 5, Subtotal: S/ 44.50
+   Pedido 3: CodPedido 314078, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 8, Subtotal: S/ 415.20
+   Pedido 4: CodPedido 314078, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 2, Subtotal: S/ 24.00
+   Pedido 5: CodPedido 314078, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 201.00
+   Pedido 6: CodPedido 314078, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 2, Subtotal: S/ 109.80
+Monto total del cliente: S/ 856.80
+
+Cliente 52: ASTETE RIOS CESAR WILVER (DNI 34697743)
+Distrito: LO9443
+Pedidos realizados: 28
+  --- Pedidos ---
+   Pedido 1: CodPedido 294538, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 3, Subtotal: S/ 68.70
+   Pedido 2: CodPedido 869665, Plato AP-73428 (TEQUEÑOS), Cantidad: 2, Subtotal: S/ 39.00
+   Pedido 3: CodPedido 869665, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 3, Subtotal: S/ 21.00
+   Pedido 4: CodPedido 815830, Plato BR-15945 (1/2 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 48.90
+   Pedido 5: CodPedido 294538, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 4, Subtotal: S/ 199.60
+   Pedido 6: CodPedido 699046, Plato BR-15326 (1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 7: CodPedido 594895, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 9, Subtotal: S/ 301.50
+   Pedido 8: CodPedido 594895, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 1, Subtotal: S/ 24.90
+   Pedido 9: CodPedido 594895, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 10: CodPedido 594895, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 5, Subtotal: S/ 249.50
+   Pedido 11: CodPedido 699046, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 12: CodPedido 594895, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 3, Subtotal: S/ 221.70
+   Pedido 13: CodPedido 908458, Plato AD-53546 (CHOCLO), Cantidad: 3, Subtotal: S/ 29.70
+   Pedido 14: CodPedido 699046, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 47.90
+   Pedido 15: CodPedido 594895, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 16: CodPedido 815830, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 17: CodPedido 594895, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 239.50
+   Pedido 18: CodPedido 594895, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 6, Subtotal: S/ 149.40
+   Pedido 19: CodPedido 294538, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 3, Subtotal: S/ 103.50
+   Pedido 20: CodPedido 294538, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 21: CodPedido 869665, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 22: CodPedido 294538, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 23: CodPedido 294538, Plato EN-77691 (ENSALADA SENSACION MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 215.10
+   Pedido 24: CodPedido 908458, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 25: CodPedido 699046, Plato BR-15926 (1/2 POLLO BBQ/HOT ARROCERO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 26: CodPedido 594895, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 27: CodPedido 294538, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 9, Subtotal: S/ 143.10
+   Pedido 28: CodPedido 908458, Plato BR-15592 (1/4 POLLO ANTICUCHO), Cantidad: 3, Subtotal: S/ 101.70
+Monto total del cliente: S/ 4391.10
+
+Cliente 53: MEREL SALAZAR ANNIE LOURDES (DNI 62126128)
+Distrito: LE4504
+Pedidos realizados: 23
+  --- Pedidos ---
+   Pedido 1: CodPedido 170173, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 6, Subtotal: S/ 75.00
+   Pedido 2: CodPedido 432825, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 2, Subtotal: S/ 35.80
+   Pedido 3: CodPedido 275160, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 4, Subtotal: S/ 123.60
+   Pedido 4: CodPedido 768474, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 5: CodPedido 170173, Plato EN-53265 (ANTICUCHO), Cantidad: 7, Subtotal: S/ 90.30
+   Pedido 6: CodPedido 768474, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 7: CodPedido 170173, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 2, Subtotal: S/ 147.80
+   Pedido 8: CodPedido 432825, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 6, Subtotal: S/ 311.40
+   Pedido 9: CodPedido 432825, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 10: CodPedido 432825, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 8, Subtotal: S/ 468.00
+   Pedido 11: CodPedido 768474, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 12: CodPedido 170173, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 13: CodPedido 170173, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 4, Subtotal: S/ 126.00
+   Pedido 14: CodPedido 432825, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 15: CodPedido 432825, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 16: CodPedido 432825, Plato EN-53265 (ANTICUCHO), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 17: CodPedido 768474, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 2, Subtotal: S/ 147.80
+   Pedido 18: CodPedido 768474, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 6, Subtotal: S/ 149.40
+   Pedido 19: CodPedido 768474, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 8, Subtotal: S/ 56.00
+   Pedido 20: CodPedido 170173, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 21: CodPedido 768474, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 6, Subtotal: S/ 201.00
+   Pedido 22: CodPedido 170173, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 7, Subtotal: S/ 629.30
+   Pedido 23: CodPedido 432825, Plato AD-53518 (PAPAS FRITAS), Cantidad: 6, Subtotal: S/ 95.40
+Monto total del cliente: S/ 3470.80
+
+Cliente 54: SUELDO RUIZ ANTONIO (DNI 51642949)
+Distrito: LN2958
+Pedidos realizados: 27
+  --- Pedidos ---
+   Pedido 1: CodPedido 331362, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 5, Subtotal: S/ 239.50
+   Pedido 2: CodPedido 187119, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 3, Subtotal: S/ 98.70
+   Pedido 3: CodPedido 751666, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 8, Subtotal: S/ 351.20
+   Pedido 4: CodPedido 187119, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 6, Subtotal: S/ 189.00
+   Pedido 5: CodPedido 331362, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 6: CodPedido 751666, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 7: CodPedido 187119, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 1, Subtotal: S/ 89.90
+   Pedido 8: CodPedido 751666, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 9: CodPedido 751666, Plato AD-53477 (PAPAS DORADAS), Cantidad: 6, Subtotal: S/ 95.40
+   Pedido 10: CodPedido 751666, Plato AP-73428 (TEQUEÑOS), Cantidad: 1, Subtotal: S/ 19.50
+   Pedido 11: CodPedido 751666, Plato AD-53377 (PLATANO), Cantidad: 1, Subtotal: S/ 3.90
+   Pedido 12: CodPedido 490105, Plato PI-15539 (PIQUEOS MINI POLLITOS PANKO), Cantidad: 4, Subtotal: S/ 87.60
+   Pedido 13: CodPedido 751666, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 7, Subtotal: S/ 181.30
+   Pedido 14: CodPedido 187119, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 6, Subtotal: S/ 75.00
+   Pedido 15: CodPedido 187119, Plato EN-53265 (ANTICUCHO), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 16: CodPedido 331362, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 8, Subtotal: S/ 591.20
+   Pedido 17: CodPedido 331362, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 18: CodPedido 751666, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 19: CodPedido 331362, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 3, Subtotal: S/ 74.70
+   Pedido 20: CodPedido 751666, Plato PO-11611 (TRES LECHES), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 21: CodPedido 187119, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 22: CodPedido 331362, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 23: CodPedido 490105, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 24: CodPedido 331362, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 25: CodPedido 896356, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 1, Subtotal: S/ 8.90
+   Pedido 26: CodPedido 331362, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 27: CodPedido 490105, Plato EN-77691 (ENSALADA SENSACION MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+Monto total del cliente: S/ 4653.50
+
+Cliente 55: DIAZ REYES WALTER EDGAR (DNI 80694546)
+Distrito: LE3716
+Pedidos realizados: 17
+  --- Pedidos ---
+   Pedido 1: CodPedido 916368, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 9, Subtotal: S/ 94.50
+   Pedido 2: CodPedido 342947, Plato BE-39695 (SANGRIA), Cantidad: 5, Subtotal: S/ 184.50
+   Pedido 3: CodPedido 993028, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 3, Subtotal: S/ 68.70
+   Pedido 4: CodPedido 652747, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 6, Subtotal: S/ 72.00
+   Pedido 5: CodPedido 652747, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 6, Subtotal: S/ 191.40
+   Pedido 6: CodPedido 652747, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 7: CodPedido 169965, Plato PO-11611 (TRES LECHES), Cantidad: 9, Subtotal: S/ 143.10
+   Pedido 8: CodPedido 916368, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 183.20
+   Pedido 9: CodPedido 652747, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 10, Subtotal: S/ 345.00
+   Pedido 10: CodPedido 342947, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 4, Subtotal: S/ 131.60
+   Pedido 11: CodPedido 169965, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 7, Subtotal: S/ 49.00
+   Pedido 12: CodPedido 916368, Plato AD-53546 (CHOCLO), Cantidad: 4, Subtotal: S/ 39.60
+   Pedido 13: CodPedido 652747, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 14: CodPedido 652747, Plato PO-11621 (CHEESECAKE DE MARACUYA), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 15: CodPedido 342947, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 6, Subtotal: S/ 201.00
+   Pedido 16: CodPedido 169965, Plato AD-53377 (PLATANO), Cantidad: 10, Subtotal: S/ 39.00
+   Pedido 17: CodPedido 652747, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 9, Subtotal: S/ 112.50
+Monto total del cliente: S/ 2090.80
+
+Cliente 56: LAU BACA MONICA TERESA (DNI 65912822)
+Distrito: LN4826
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 329964, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 10, Subtotal: S/ 739.00
+   Pedido 2: CodPedido 329964, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 10, Subtotal: S/ 335.00
+   Pedido 3: CodPedido 329964, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 50.90
+   Pedido 4: CodPedido 329964, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 5, Subtotal: S/ 129.50
+   Pedido 5: CodPedido 246151, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 499.00
+   Pedido 6: CodPedido 329964, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 7: CodPedido 329964, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 8: CodPedido 246151, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 9: CodPedido 246151, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 7, Subtotal: S/ 342.30
+   Pedido 10: CodPedido 246151, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 11: CodPedido 246151, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 6, Subtotal: S/ 197.40
+   Pedido 12: CodPedido 329964, Plato AD-53546 (CHOCLO), Cantidad: 7, Subtotal: S/ 69.30
+   Pedido 13: CodPedido 246151, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 3, Subtotal: S/ 94.50
+   Pedido 14: CodPedido 329964, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 10, Subtotal: S/ 179.00
+   Pedido 15: CodPedido 246151, Plato BE-39695 (SANGRIA), Cantidad: 10, Subtotal: S/ 369.00
+Monto total del cliente: S/ 3957.40
+
+Cliente 57: URBINA HIJAR RAFAEL (DNI 45201670)
+Distrito: LE4504
+Pedidos realizados: 0
+Monto total del cliente: S/ 0.00
+
+Cliente 58: URBINA CASTILLO HELI (DNI 81539774)
+Distrito: LO4439
+Pedidos realizados: 24
+  --- Pedidos ---
+   Pedido 1: CodPedido 593758, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 7, Subtotal: S/ 377.30
+   Pedido 2: CodPedido 247099, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 3: CodPedido 247099, Plato AP-73428 (TEQUEÑOS), Cantidad: 4, Subtotal: S/ 78.00
+   Pedido 4: CodPedido 478986, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 5, Subtotal: S/ 44.50
+   Pedido 5: CodPedido 593758, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 10, Subtotal: S/ 189.00
+   Pedido 6: CodPedido 247099, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 9, Subtotal: S/ 94.50
+   Pedido 7: CodPedido 247099, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 8: CodPedido 478986, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 3, Subtotal: S/ 36.00
+   Pedido 9: CodPedido 192023, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 8, Subtotal: S/ 591.20
+   Pedido 10: CodPedido 456118, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 260.00
+   Pedido 11: CodPedido 478986, Plato AD-53760 (ARROZ), Cantidad: 7, Subtotal: S/ 48.30
+   Pedido 12: CodPedido 593758, Plato AD-53814 (PALTA), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 13: CodPedido 593758, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 7, Subtotal: S/ 332.50
+   Pedido 14: CodPedido 593758, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 15: CodPedido 456118, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 2, Subtotal: S/ 61.80
+   Pedido 16: CodPedido 456118, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 17: CodPedido 247099, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 18: CodPedido 593758, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 19: CodPedido 247099, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 20: CodPedido 247099, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 21: CodPedido 478986, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 10, Subtotal: S/ 70.00
+   Pedido 22: CodPedido 593758, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 4, Subtotal: S/ 234.00
+   Pedido 23: CodPedido 593758, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 9, Subtotal: S/ 80.10
+   Pedido 24: CodPedido 593758, Plato EN-53265 (ANTICUCHO), Cantidad: 6, Subtotal: S/ 77.40
+Monto total del cliente: S/ 3831.50
+
+Cliente 59: FALCON PRECIADO ALEX HENRY (DNI 77324146)
+Distrito: LO4328
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 961419, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 1, Subtotal: S/ 25.90
+   Pedido 2: CodPedido 790582, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 3: CodPedido 790582, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 4, Subtotal: S/ 42.00
+   Pedido 4: CodPedido 961419, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 9, Subtotal: S/ 62.10
+   Pedido 5: CodPedido 961419, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 4, Subtotal: S/ 103.60
+   Pedido 6: CodPedido 790582, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 3, Subtotal: S/ 56.70
+   Pedido 7: CodPedido 790582, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 8: CodPedido 790582, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+Monto total del cliente: S/ 593.00
+
+Cliente 60: DE LA CUBA JUGO LUCERO DELICIA (DNI 62287143)
+Distrito: LO5964
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 934108, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 6, Subtotal: S/ 63.00
+   Pedido 2: CodPedido 764269, Plato AD-53377 (PLATANO), Cantidad: 7, Subtotal: S/ 27.30
+   Pedido 3: CodPedido 934108, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 4: CodPedido 934108, Plato AD-53377 (PLATANO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 5: CodPedido 934108, Plato PA-11500 (PARRILLA PARA CUATRO), Cantidad: 3, Subtotal: S/ 386.70
+   Pedido 6: CodPedido 934108, Plato EN-77691 (ENSALADA SENSACION MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+Monto total del cliente: S/ 883.40
+
+Cliente 61: DURAND MEZA WALDEMAR EDGARD (DNI 52313890)
+Distrito: LO4328
+Pedidos realizados: 19
+  --- Pedidos ---
+   Pedido 1: CodPedido 111663, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 6, Subtotal: S/ 53.40
+   Pedido 2: CodPedido 501821, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 7, Subtotal: S/ 49.00
+   Pedido 3: CodPedido 393903, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 4: CodPedido 111663, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 359.20
+   Pedido 5: CodPedido 393903, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 6: CodPedido 111663, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 2, Subtotal: S/ 99.80
+   Pedido 7: CodPedido 501821, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 2, Subtotal: S/ 101.80
+   Pedido 8: CodPedido 111663, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 9, Subtotal: S/ 170.10
+   Pedido 9: CodPedido 111663, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 10: CodPedido 158211, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 11: CodPedido 501821, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 12: CodPedido 111663, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 13: CodPedido 111663, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 7, Subtotal: S/ 335.30
+   Pedido 14: CodPedido 501821, Plato AP-73428 (TEQUEÑOS), Cantidad: 3, Subtotal: S/ 58.50
+   Pedido 15: CodPedido 111663, Plato AD-53518 (PAPAS FRITAS), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 16: CodPedido 393903, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 8, Subtotal: S/ 423.20
+   Pedido 17: CodPedido 111663, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 10, Subtotal: S/ 259.00
+   Pedido 18: CodPedido 158211, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 10, Subtotal: S/ 475.00
+   Pedido 19: CodPedido 501821, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 2, Subtotal: S/ 37.80
+Monto total del cliente: S/ 2881.20
+
+Cliente 62: SALAS URBINA MAGDA CARMEN (DNI 36934113)
+Distrito: LN7752
+Pedidos realizados: 20
+  --- Pedidos ---
+   Pedido 1: CodPedido 252120, Plato EN-53265 (ANTICUCHO), Cantidad: 6, Subtotal: S/ 77.40
+   Pedido 2: CodPedido 466115, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 5, Subtotal: S/ 254.50
+   Pedido 3: CodPedido 466115, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 4: CodPedido 988319, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 9, Subtotal: S/ 458.10
+   Pedido 5: CodPedido 252120, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 3, Subtotal: S/ 110.70
+   Pedido 6: CodPedido 466115, Plato AD-53518 (PAPAS FRITAS), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 7: CodPedido 988319, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 7, Subtotal: S/ 84.00
+   Pedido 8: CodPedido 988319, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 10, Subtotal: S/ 229.00
+   Pedido 9: CodPedido 466115, Plato AD-53377 (PLATANO), Cantidad: 4, Subtotal: S/ 15.60
+   Pedido 10: CodPedido 988319, Plato AD-53760 (ARROZ), Cantidad: 6, Subtotal: S/ 41.40
+   Pedido 11: CodPedido 811186, Plato BE-39903 (CHICHA1/2 LITRO), Cantidad: 3, Subtotal: S/ 31.50
+   Pedido 12: CodPedido 466115, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 7, Subtotal: S/ 167.30
+   Pedido 13: CodPedido 988319, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 4, Subtotal: S/ 199.60
+   Pedido 14: CodPedido 466115, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 15: CodPedido 252120, Plato BE-39695 (SANGRIA), Cantidad: 5, Subtotal: S/ 184.50
+   Pedido 16: CodPedido 252120, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 17: CodPedido 988319, Plato AD-53477 (PAPAS DORADAS), Cantidad: 8, Subtotal: S/ 127.20
+   Pedido 18: CodPedido 252120, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 2, Subtotal: S/ 61.80
+   Pedido 19: CodPedido 252120, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 20: CodPedido 988319, Plato EN-77894 (ENSALADA SENSACION GRANDE CON POLLO), Cantidad: 7, Subtotal: S/ 230.30
+Monto total del cliente: S/ 2949.30
+
+Cliente 63: VILLEGAS LEIVA FELICITA (DNI 58643376)
+Distrito: LO9222
+Pedidos realizados: 16
+  --- Pedidos ---
+   Pedido 1: CodPedido 530416, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 5, Subtotal: S/ 62.50
+   Pedido 2: CodPedido 431133, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 1, Subtotal: S/ 49.90
+   Pedido 3: CodPedido 530416, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 315.00
+   Pedido 4: CodPedido 530416, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 2, Subtotal: S/ 17.80
+   Pedido 5: CodPedido 530416, Plato PO-11621 (CHEESECAKE DE MARACUYA), Cantidad: 1, Subtotal: S/ 15.90
+   Pedido 6: CodPedido 431133, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 7: CodPedido 530416, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 5, Subtotal: S/ 179.50
+   Pedido 8: CodPedido 530416, Plato PI-15488 (PIQUEOS CHORIZOS COCKTAIL), Cantidad: 3, Subtotal: S/ 50.70
+   Pedido 9: CodPedido 530416, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 65.00
+   Pedido 10: CodPedido 431133, Plato BR-15945 (1/2 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 195.60
+   Pedido 11: CodPedido 530416, Plato AD-53518 (PAPAS FRITAS), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 12: CodPedido 431133, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 7, Subtotal: S/ 230.30
+   Pedido 13: CodPedido 431133, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 14: CodPedido 530416, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 1, Subtotal: S/ 43.90
+   Pedido 15: CodPedido 431133, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 9, Subtotal: S/ 251.10
+   Pedido 16: CodPedido 431133, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 7, Subtotal: S/ 153.30
+Monto total del cliente: S/ 2277.90
+
+Cliente 64: SUAREZ MUNOZ MADELEINE (DNI 27709566)
+Distrito: LE3053
+Pedidos realizados: 4
+  --- Pedidos ---
+   Pedido 1: CodPedido 548569, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 2: CodPedido 548569, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 4, Subtotal: S/ 99.60
+   Pedido 3: CodPedido 548569, Plato BE-39695 (SANGRIA), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 4: CodPedido 548569, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 195.60
+Monto total del cliente: S/ 586.40
+
+Cliente 65: BARRERA MIRANDA ALEXANDER MARTIN (DNI 60543714)
+Distrito: LO3691
+Pedidos realizados: 29
+  --- Pedidos ---
+   Pedido 1: CodPedido 632169, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 1, Subtotal: S/ 25.90
+   Pedido 2: CodPedido 181472, Plato BE-39442 (LIMONADA 1 LITRO), Cantidad: 9, Subtotal: S/ 197.10
+   Pedido 3: CodPedido 181472, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 2, Subtotal: S/ 103.80
+   Pedido 4: CodPedido 632169, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 65.00
+   Pedido 5: CodPedido 181472, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 7, Subtotal: S/ 90.30
+   Pedido 6: CodPedido 632169, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 4, Subtotal: S/ 126.00
+   Pedido 7: CodPedido 181472, Plato AD-53957 (PAPAS FRITAS 1/2 PORCION), Cantidad: 2, Subtotal: S/ 21.80
+   Pedido 8: CodPedido 632169, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 9: CodPedido 477444, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 2, Subtotal: S/ 17.80
+   Pedido 10: CodPedido 984153, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 2, Subtotal: S/ 55.80
+   Pedido 11: CodPedido 984153, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 4, Subtotal: S/ 99.60
+   Pedido 12: CodPedido 632169, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 9, Subtotal: S/ 63.00
+   Pedido 13: CodPedido 477444, Plato EN-77762 (ENSALADA DELICIA GRANDE SOLO), Cantidad: 2, Subtotal: S/ 47.80
+   Pedido 14: CodPedido 181472, Plato AD-53760 (ARROZ), Cantidad: 4, Subtotal: S/ 27.60
+   Pedido 15: CodPedido 632169, Plato BR-15950 (1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 5, Subtotal: S/ 219.50
+   Pedido 16: CodPedido 984153, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 7, Subtotal: S/ 349.30
+   Pedido 17: CodPedido 984153, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 18: CodPedido 477444, Plato AD-53502 (PORCION DE CAMOTE), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 19: CodPedido 181472, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 7, Subtotal: S/ 84.00
+   Pedido 20: CodPedido 984153, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 2, Subtotal: S/ 147.80
+   Pedido 21: CodPedido 632169, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 4, Subtotal: S/ 143.60
+   Pedido 22: CodPedido 181472, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 23: CodPedido 984153, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 229.00
+   Pedido 24: CodPedido 632169, Plato AD-53377 (PLATANO), Cantidad: 8, Subtotal: S/ 31.20
+   Pedido 25: CodPedido 181472, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 10, Subtotal: S/ 70.00
+   Pedido 26: CodPedido 984153, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 2, Subtotal: S/ 43.80
+   Pedido 27: CodPedido 984153, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 28: CodPedido 181472, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 5, Subtotal: S/ 249.50
+   Pedido 29: CodPedido 632169, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 3, Subtotal: S/ 37.50
+Monto total del cliente: S/ 3367.70
+
+Cliente 66: FIGUEROA COLLADO EVERT (DNI 35347567)
+Distrito: LO7318
+Pedidos realizados: 15
+  --- Pedidos ---
+   Pedido 1: CodPedido 796698, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 10, Subtotal: S/ 739.00
+   Pedido 2: CodPedido 796698, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 7, Subtotal: S/ 174.30
+   Pedido 3: CodPedido 561622, Plato BR-15945 (1/2 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 195.60
+   Pedido 4: CodPedido 561622, Plato BR-15760 (1/4 POLLO BBQ/HOT ARROCERO), Cantidad: 5, Subtotal: S/ 172.50
+   Pedido 5: CodPedido 796698, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 6: CodPedido 561622, Plato AD-53764 (PLATANO-HUEVO), Cantidad: 8, Subtotal: S/ 55.20
+   Pedido 7: CodPedido 569739, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 183.20
+   Pedido 8: CodPedido 796698, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 1, Subtotal: S/ 49.90
+   Pedido 9: CodPedido 561622, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 9, Subtotal: S/ 63.00
+   Pedido 10: CodPedido 561622, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 6, Subtotal: S/ 191.40
+   Pedido 11: CodPedido 569739, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 6, Subtotal: S/ 305.40
+   Pedido 12: CodPedido 561622, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 13: CodPedido 561622, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 3, Subtotal: S/ 134.70
+   Pedido 14: CodPedido 561622, Plato BE-39864 (INKA COLA 1/2 LITRO), Cantidad: 2, Subtotal: S/ 14.00
+   Pedido 15: CodPedido 561622, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 5, Subtotal: S/ 44.50
+Monto total del cliente: S/ 2696.70
+
+Cliente 67: MONTERO MONTERO ANNIE (DNI 22598563)
+Distrito: LO8667
+Pedidos realizados: 17
+  --- Pedidos ---
+   Pedido 1: CodPedido 227408, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 7, Subtotal: S/ 423.50
+   Pedido 2: CodPedido 621540, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 3: CodPedido 621540, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 215.10
+   Pedido 4: CodPedido 621540, Plato AP-73428 (TEQUEÑOS), Cantidad: 4, Subtotal: S/ 78.00
+   Pedido 5: CodPedido 903078, Plato BE-39137 (CERVEZA PILSEN), Cantidad: 5, Subtotal: S/ 60.00
+   Pedido 6: CodPedido 621540, Plato BE-39227 (SPRITE1/2 LITRO), Cantidad: 1, Subtotal: S/ 7.00
+   Pedido 7: CodPedido 621540, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 8: CodPedido 380646, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 6, Subtotal: S/ 285.00
+   Pedido 9: CodPedido 380646, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 10: CodPedido 621540, Plato AD-53814 (PALTA), Cantidad: 6, Subtotal: S/ 59.40
+   Pedido 11: CodPedido 903078, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 130.00
+   Pedido 12: CodPedido 568930, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 13: CodPedido 227408, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 2, Subtotal: S/ 25.00
+   Pedido 14: CodPedido 621540, Plato BE-39199 (LIMONADA 1 LITRO), Cantidad: 7, Subtotal: S/ 73.50
+   Pedido 15: CodPedido 380646, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 97.50
+   Pedido 16: CodPedido 380646, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 1, Subtotal: S/ 60.50
+   Pedido 17: CodPedido 621540, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 2, Subtotal: S/ 37.80
+Monto total del cliente: S/ 1779.40
+
+Cliente 68: LA HAZA CABRERA ALBERTO DE (DNI 14956687)
+Distrito: LE6936
+Pedidos realizados: 22
+  --- Pedidos ---
+   Pedido 1: CodPedido 974769, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 10, Subtotal: S/ 189.00
+   Pedido 2: CodPedido 254358, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 5, Subtotal: S/ 254.50
+   Pedido 3: CodPedido 974769, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 4: CodPedido 974769, Plato EN-53265 (ANTICUCHO), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 5: CodPedido 254358, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 6: CodPedido 254358, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 3, Subtotal: S/ 71.70
+   Pedido 7: CodPedido 806230, Plato AD-53518 (PAPAS FRITAS), Cantidad: 2, Subtotal: S/ 31.80
+   Pedido 8: CodPedido 806230, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 9, Subtotal: S/ 170.10
+   Pedido 9: CodPedido 974769, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 3, Subtotal: S/ 94.50
+   Pedido 10: CodPedido 974769, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 6, Subtotal: S/ 197.40
+   Pedido 11: CodPedido 806230, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 10, Subtotal: S/ 229.00
+   Pedido 12: CodPedido 254358, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 13: CodPedido 974769, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 14: CodPedido 974769, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 1, Subtotal: S/ 12.50
+   Pedido 15: CodPedido 254358, Plato AD-53377 (PLATANO), Cantidad: 8, Subtotal: S/ 31.20
+   Pedido 16: CodPedido 254358, Plato AD-53518 (PAPAS FRITAS), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 17: CodPedido 254358, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 4, Subtotal: S/ 203.60
+   Pedido 18: CodPedido 806230, Plato EN-90758 (BROCHETAS DE POLLO), Cantidad: 2, Subtotal: S/ 51.80
+   Pedido 19: CodPedido 254358, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 183.20
+   Pedido 20: CodPedido 254358, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 21: CodPedido 806230, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 7, Subtotal: S/ 49.00
+   Pedido 22: CodPedido 806230, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 6, Subtotal: S/ 269.40
+Monto total del cliente: S/ 2771.30
+
+Cliente 69: AYALA VIZCARDO EDGAR MANUEL (DNI 59596317)
+Distrito: LO3562
+Pedidos realizados: 26
+  --- Pedidos ---
+   Pedido 1: CodPedido 149836, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 2: CodPedido 414009, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 3: CodPedido 414009, Plato AD-53991 (HUEVO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 4: CodPedido 542427, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 5: CodPedido 308748, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 5, Subtotal: S/ 159.50
+   Pedido 6: CodPedido 414009, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 7: CodPedido 542427, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 5, Subtotal: S/ 269.50
+   Pedido 8: CodPedido 414009, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 97.80
+   Pedido 9: CodPedido 663322, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+   Pedido 10: CodPedido 149836, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 8, Subtotal: S/ 303.20
+   Pedido 11: CodPedido 308748, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 6, Subtotal: S/ 317.40
+   Pedido 12: CodPedido 663311, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 9, Subtotal: S/ 170.10
+   Pedido 13: CodPedido 663311, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 383.20
+   Pedido 14: CodPedido 663311, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 15: CodPedido 308748, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 8, Subtotal: S/ 391.20
+   Pedido 16: CodPedido 663311, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 17: CodPedido 308748, Plato BR-15326 (1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 18: CodPedido 414009, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 10, Subtotal: S/ 155.00
+   Pedido 19: CodPedido 542427, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 20: CodPedido 308748, Plato BR-15378 (1/4 POLLO ARROCERO), Cantidad: 10, Subtotal: S/ 335.00
+   Pedido 21: CodPedido 414009, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 22: CodPedido 414009, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 295.20
+   Pedido 23: CodPedido 149836, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 24: CodPedido 414009, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 25: CodPedido 149836, Plato SA-55338 (SANGUCHE BRASA), Cantidad: 7, Subtotal: S/ 160.30
+   Pedido 26: CodPedido 414009, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 1, Subtotal: S/ 22.90
+Monto total del cliente: S/ 5369.20
+
+Cliente 70: CHUMPITAZ ALCOCER ANGEL ERICK (DNI 93231760)
+Distrito: LN7752
+Pedidos realizados: 25
+  --- Pedidos ---
+   Pedido 1: CodPedido 745839, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 2: CodPedido 622546, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 8, Subtotal: S/ 391.20
+   Pedido 3: CodPedido 358019, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 5, Subtotal: S/ 254.50
+   Pedido 4: CodPedido 891024, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 10, Subtotal: S/ 229.00
+   Pedido 5: CodPedido 358019, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 59.00
+   Pedido 6: CodPedido 358019, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 8, Subtotal: S/ 71.20
+   Pedido 7: CodPedido 745839, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 3, Subtotal: S/ 110.70
+   Pedido 8: CodPedido 358019, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 9: CodPedido 747367, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 7, Subtotal: S/ 87.50
+   Pedido 10: CodPedido 358019, Plato BR-15592 (1/4 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 67.80
+   Pedido 11: CodPedido 747367, Plato PO-11611 (TRES LECHES), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 12: CodPedido 358019, Plato BE-39987 (FANTA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 13: CodPedido 745839, Plato EN-53265 (ANTICUCHO), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 14: CodPedido 358019, Plato AD-53957 (PAPAS FRITAS 1/2 PORCION), Cantidad: 4, Subtotal: S/ 43.60
+   Pedido 15: CodPedido 358019, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 4, Subtotal: S/ 126.00
+   Pedido 16: CodPedido 484298, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 4, Subtotal: S/ 359.60
+   Pedido 17: CodPedido 745839, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 18: CodPedido 484298, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 6, Subtotal: S/ 113.40
+   Pedido 19: CodPedido 484298, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 8, Subtotal: S/ 591.20
+   Pedido 20: CodPedido 484298, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 21: CodPedido 747367, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 22: CodPedido 747367, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 23: CodPedido 358019, Plato PO-11171 (TORTA DE CHOCOLATE), Cantidad: 5, Subtotal: S/ 79.50
+   Pedido 24: CodPedido 622546, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 25: CodPedido 891024, Plato PO-11620 (CHEESECAKE DE FRESA), Cantidad: 1, Subtotal: S/ 15.90
+Monto total del cliente: S/ 4376.00
+
+Cliente 71: CHUMPITAZ PALOMARES VIRGINIA (DNI 93939698)
+Distrito: LE7040
+Pedidos realizados: 12
+  --- Pedidos ---
+   Pedido 1: CodPedido 244107, Plato BR-15365 (1/4 POLLO BBQ/HOT ANTICUCHO), Cantidad: 10, Subtotal: S/ 449.00
+   Pedido 2: CodPedido 244107, Plato AD-53546 (CHOCLO), Cantidad: 7, Subtotal: S/ 69.30
+   Pedido 3: CodPedido 161044, Plato AD-53546 (CHOCLO), Cantidad: 9, Subtotal: S/ 89.10
+   Pedido 4: CodPedido 244107, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 9, Subtotal: S/ 301.50
+   Pedido 5: CodPedido 161044, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 2, Subtotal: S/ 49.80
+   Pedido 6: CodPedido 244107, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 7, Subtotal: S/ 62.30
+   Pedido 7: CodPedido 865237, Plato BR-15510 (1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 2, Subtotal: S/ 71.80
+   Pedido 8: CodPedido 865237, Plato AD-53502 (PORCION DE CAMOTE), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 9: CodPedido 865237, Plato PA-11500 (PARRILLA PARA CUATRO), Cantidad: 4, Subtotal: S/ 515.60
+   Pedido 10: CodPedido 161044, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 11: CodPedido 865237, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 2, Subtotal: S/ 103.80
+   Pedido 12: CodPedido 244107, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 5, Subtotal: S/ 129.50
+Monto total del cliente: S/ 2069.80
+
+Cliente 72: VILLA SEDANO MARTIN JUVENAL (DNI 41964357)
+Distrito: LO3562
+Pedidos realizados: 23
+  --- Pedidos ---
+   Pedido 1: CodPedido 946451, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 4, Subtotal: S/ 134.00
+   Pedido 2: CodPedido 415664, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 6, Subtotal: S/ 149.40
+   Pedido 3: CodPedido 656315, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 9, Subtotal: S/ 296.10
+   Pedido 4: CodPedido 946451, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 5: CodPedido 946451, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 8, Subtotal: S/ 303.20
+   Pedido 6: CodPedido 788167, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 7, Subtotal: S/ 132.30
+   Pedido 7: CodPedido 656315, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 2, Subtotal: S/ 61.80
+   Pedido 8: CodPedido 788167, Plato AP-73428 (TEQUEÑOS), Cantidad: 8, Subtotal: S/ 156.00
+   Pedido 9: CodPedido 946451, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 3, Subtotal: S/ 269.70
+   Pedido 10: CodPedido 561156, Plato BE-39489 (FANTA 1/2 LITRO), Cantidad: 6, Subtotal: S/ 42.00
+   Pedido 11: CodPedido 561156, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 215.10
+   Pedido 12: CodPedido 946451, Plato BR-15592 (1/4 POLLO ANTICUCHO), Cantidad: 7, Subtotal: S/ 237.30
+   Pedido 13: CodPedido 561156, Plato BR-15756 (1/2 POLLO A LO BRAVO), Cantidad: 9, Subtotal: S/ 458.10
+   Pedido 14: CodPedido 561156, Plato BR-15665 (1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO), Cantidad: 1, Subtotal: S/ 50.90
+   Pedido 15: CodPedido 946451, Plato EN-53265 (ANTICUCHO), Cantidad: 3, Subtotal: S/ 38.70
+   Pedido 16: CodPedido 788167, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 17: CodPedido 561156, Plato AD-53518 (PAPAS FRITAS), Cantidad: 9, Subtotal: S/ 143.10
+   Pedido 18: CodPedido 946451, Plato PO-11731 (ARROZ CON LECHE), Cantidad: 4, Subtotal: S/ 35.60
+   Pedido 19: CodPedido 516483, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 20: CodPedido 561156, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+   Pedido 21: CodPedido 561156, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 7, Subtotal: S/ 108.50
+   Pedido 22: CodPedido 516483, Plato BE-39265 (TABERNERO GRAN TINTO), Cantidad: 2, Subtotal: S/ 99.80
+   Pedido 23: CodPedido 946451, Plato AD-53502 (PORCION DE CAMOTE), Cantidad: 8, Subtotal: S/ 127.20
+Monto total del cliente: S/ 3610.50
+
+Cliente 73: GUEVARA MIYAKE MILENA (DNI 79133967)
+Distrito: LO4439
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 923530, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 10, Subtotal: S/ 70.00
+   Pedido 2: CodPedido 298464, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 2, Subtotal: S/ 45.80
+   Pedido 3: CodPedido 445200, Plato PO-11283 (2 BOLAS DE HELADO), Cantidad: 7, Subtotal: S/ 104.30
+   Pedido 4: CodPedido 298464, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 5: CodPedido 298464, Plato BR-15297 (1/2 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 9, Subtotal: S/ 467.10
+   Pedido 6: CodPedido 923530, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 8, Subtotal: S/ 191.20
+   Pedido 7: CodPedido 445200, Plato PI-15404 (PIQUEOS BROCHETA), Cantidad: 6, Subtotal: S/ 107.40
+   Pedido 8: CodPedido 298464, Plato BR-15419 (1/4 POLLO BBQ/HOT A LO BRAVO), Cantidad: 3, Subtotal: S/ 113.70
+   Pedido 9: CodPedido 445200, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 1, Subtotal: S/ 22.90
+Monto total del cliente: S/ 1328.50
+
+Cliente 74: ROSEMBERG LAU JULIO HENRRY (DNI 72937662)
+Distrito: LO4328
+Pedidos realizados: 24
+  --- Pedidos ---
+   Pedido 1: CodPedido 544862, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 8, Subtotal: S/ 399.20
+   Pedido 2: CodPedido 768281, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 3, Subtotal: S/ 94.50
+   Pedido 3: CodPedido 424007, Plato AD-53377 (PLATANO), Cantidad: 8, Subtotal: S/ 31.20
+   Pedido 4: CodPedido 768281, Plato EN-77690 (ENSALADA CESARS GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 5: CodPedido 768281, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 1, Subtotal: S/ 18.90
+   Pedido 6: CodPedido 596267, Plato BE-39747 (COCA COLA 1/2 LITRO), Cantidad: 3, Subtotal: S/ 21.00
+   Pedido 7: CodPedido 424007, Plato EN-90365 (MOLLEGITAS A LA PARRILLA), Cantidad: 9, Subtotal: S/ 233.10
+   Pedido 8: CodPedido 544862, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 1, Subtotal: S/ 33.50
+   Pedido 9: CodPedido 424007, Plato EN-77971 (ENSALADA HONEY MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 10: CodPedido 544862, Plato BE-39695 (SANGRIA), Cantidad: 2, Subtotal: S/ 73.80
+   Pedido 11: CodPedido 424007, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 6, Subtotal: S/ 299.40
+   Pedido 12: CodPedido 768281, Plato EN-53265 (ANTICUCHO), Cantidad: 9, Subtotal: S/ 116.10
+   Pedido 13: CodPedido 768281, Plato PA-11692 (PARRILLA PARA DOS), Cantidad: 1, Subtotal: S/ 89.90
+   Pedido 14: CodPedido 424007, Plato BE-39475 (INTIPALKA SYRAH), Cantidad: 6, Subtotal: S/ 431.40
+   Pedido 15: CodPedido 544862, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 2, Subtotal: S/ 63.00
+   Pedido 16: CodPedido 544862, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 8, Subtotal: S/ 263.20
+   Pedido 17: CodPedido 596267, Plato AP-73428 (TEQUEÑOS), Cantidad: 5, Subtotal: S/ 97.50
+   Pedido 18: CodPedido 596267, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 19: CodPedido 596267, Plato BE-39738 (CERVEZA HEINEKEN), Cantidad: 1, Subtotal: S/ 18.90
+   Pedido 20: CodPedido 768281, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 6, Subtotal: S/ 75.00
+   Pedido 21: CodPedido 424007, Plato BE-39851 (CASILLERO DEL DIABLO BLANCO), Cantidad: 6, Subtotal: S/ 443.40
+   Pedido 22: CodPedido 596267, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 10, Subtotal: S/ 239.00
+   Pedido 23: CodPedido 544862, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 24: CodPedido 544862, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 195.60
+Monto total del cliente: S/ 3583.10
+
+Cliente 75: ZAMBRANO MOSCOSO OFELIA MARIA (DNI 59199342)
+Distrito: LO5964
+Pedidos realizados: 25
+  --- Pedidos ---
+   Pedido 1: CodPedido 840493, Plato EN-77691 (ENSALADA SENSACION MEDIANA CON POLLO), Cantidad: 3, Subtotal: S/ 71.70
+   Pedido 2: CodPedido 840493, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 8, Subtotal: S/ 103.20
+   Pedido 3: CodPedido 840493, Plato EN-77156 (ENSALADA COCIDA GRANDE), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 4: CodPedido 478148, Plato PA-11871 (LOMO A LA PARRILLA), Cantidad: 10, Subtotal: S/ 549.00
+   Pedido 5: CodPedido 290660, Plato AD-53939 (TEQUENO), Cantidad: 7, Subtotal: S/ 34.30
+   Pedido 6: CodPedido 290660, Plato ES-31796 (ANTICUCHO DE CORAZON AL PLATO), Cantidad: 2, Subtotal: S/ 63.80
+   Pedido 7: CodPedido 478148, Plato AD-90766 (ANTICUCHO DE CORAZON), Cantidad: 9, Subtotal: S/ 233.10
+   Pedido 8: CodPedido 840493, Plato AD-53939 (TEQUENO), Cantidad: 6, Subtotal: S/ 29.40
+   Pedido 9: CodPedido 840493, Plato BE-39442 (LIMONADA 1 LITRO), Cantidad: 5, Subtotal: S/ 109.50
+   Pedido 10: CodPedido 705335, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 8, Subtotal: S/ 124.00
+   Pedido 11: CodPedido 840493, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 3, Subtotal: S/ 47.70
+   Pedido 12: CodPedido 574036, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 8, Subtotal: S/ 199.20
+   Pedido 13: CodPedido 705335, Plato SA-55330 (SANGUCHE PARRILLERO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 14: CodPedido 290660, Plato BR-15272 (1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO), Cantidad: 7, Subtotal: S/ 419.30
+   Pedido 15: CodPedido 705335, Plato EN-77487 (ENSALADA CESARS GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 16: CodPedido 705335, Plato BR-15319 (1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 6, Subtotal: S/ 287.40
+   Pedido 17: CodPedido 840493, Plato AD-53957 (PAPAS FRITAS 1/2 PORCION), Cantidad: 5, Subtotal: S/ 54.50
+   Pedido 18: CodPedido 290660, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 6, Subtotal: S/ 143.40
+   Pedido 19: CodPedido 478148, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 7, Subtotal: S/ 377.30
+   Pedido 20: CodPedido 840493, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 1, Subtotal: S/ 33.50
+   Pedido 21: CodPedido 290660, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 22: CodPedido 478148, Plato AD-53546 (CHOCLO), Cantidad: 8, Subtotal: S/ 79.20
+   Pedido 23: CodPedido 290660, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 195.60
+   Pedido 24: CodPedido 840493, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 4, Subtotal: S/ 99.60
+   Pedido 25: CodPedido 574036, Plato BE-39536 (SPRITE 1 LITRO), Cantidad: 10, Subtotal: S/ 155.00
+Monto total del cliente: S/ 4166.70
+
+Cliente 76: CORTEZ SEGURA CARMELA INES (DNI 67277765)
+Distrito: LO9222
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 565677, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 8, Subtotal: S/ 71.20
+   Pedido 2: CodPedido 565677, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 95.00
+   Pedido 3: CodPedido 565677, Plato AD-53814 (PALTA), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 4: CodPedido 565677, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 5, Subtotal: S/ 369.50
+   Pedido 5: CodPedido 565677, Plato EN-53265 (ANTICUCHO), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 6: CodPedido 565677, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 4, Subtotal: S/ 234.00
+Monto total del cliente: S/ 815.30
+
+Cliente 77: VEGA MUNOZ GONZALO  (DNI 92980780)
+Distrito: LO4439
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 615768, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 2: CodPedido 615768, Plato AD-53814 (PALTA), Cantidad: 9, Subtotal: S/ 89.10
+   Pedido 3: CodPedido 615768, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 117.00
+   Pedido 4: CodPedido 615768, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 5: CodPedido 615768, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+   Pedido 6: CodPedido 615768, Plato EN-53265 (ANTICUCHO), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 7: CodPedido 615768, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 9, Subtotal: S/ 427.50
+   Pedido 8: CodPedido 615768, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 9: CodPedido 615768, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+Monto total del cliente: S/ 1651.40
+
+Cliente 78: HIJAR PAIRAZAMAN JENNY DELICIA (DNI 65278099)
+Distrito: LS8594
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 362232, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 10, Subtotal: S/ 189.00
+   Pedido 2: CodPedido 362232, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 4, Subtotal: S/ 234.00
+   Pedido 3: CodPedido 362232, Plato AD-53814 (PALTA), Cantidad: 2, Subtotal: S/ 19.80
+   Pedido 4: CodPedido 362232, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 7, Subtotal: S/ 332.50
+   Pedido 5: CodPedido 362232, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 9, Subtotal: S/ 80.10
+   Pedido 6: CodPedido 362232, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 67.00
+   Pedido 7: CodPedido 362232, Plato PA-11850 (BIFE A LA PARRILLA), Cantidad: 7, Subtotal: S/ 377.30
+   Pedido 8: CodPedido 362232, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 9, Subtotal: S/ 665.10
+   Pedido 9: CodPedido 362232, Plato EN-53265 (ANTICUCHO), Cantidad: 6, Subtotal: S/ 77.40
+Monto total del cliente: S/ 2042.20
+
+Cliente 79: ALAMO PAIRAZAMAN MIGUEL ROBERTO (DNI 78223294)
+Distrito: LO9443
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 752219, Plato AD-53518 (PAPAS FRITAS), Cantidad: 10, Subtotal: S/ 159.00
+   Pedido 2: CodPedido 752219, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 3: CodPedido 752219, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 117.00
+   Pedido 4: CodPedido 752219, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 5: CodPedido 752219, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 6: CodPedido 752219, Plato EN-53265 (ANTICUCHO), Cantidad: 3, Subtotal: S/ 38.70
+Monto total del cliente: S/ 574.90
+
+Cliente 80: CORONADO FIGUEROA JOHAN  (DNI 81334083)
+Distrito: LO3691
+Pedidos realizados: 7
+  --- Pedidos ---
+   Pedido 1: CodPedido 172184, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 4, Subtotal: S/ 190.00
+   Pedido 2: CodPedido 172184, Plato AD-53814 (PALTA), Cantidad: 3, Subtotal: S/ 29.70
+   Pedido 3: CodPedido 172184, Plato EN-53265 (ANTICUCHO), Cantidad: 4, Subtotal: S/ 51.60
+   Pedido 4: CodPedido 172184, Plato BR-15283 (1/4 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 134.00
+   Pedido 5: CodPedido 172184, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 3, Subtotal: S/ 221.70
+   Pedido 6: CodPedido 172184, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 3, Subtotal: S/ 26.70
+   Pedido 7: CodPedido 172184, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 4, Subtotal: S/ 75.60
+Monto total del cliente: S/ 729.30
+
+Cliente 81: RUIZ GORDILLO CAROLA ERIKA (DNI 49573578)
+Distrito: LE7040
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 883970, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 8, Subtotal: S/ 380.00
+   Pedido 2: CodPedido 883970, Plato EN-53265 (ANTICUCHO), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 3: CodPedido 883970, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+   Pedido 4: CodPedido 883970, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 3, Subtotal: S/ 221.70
+   Pedido 5: CodPedido 883970, Plato PI-15153 (PIQUEOS MOLLEJITAS), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 6: CodPedido 883970, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 1, Subtotal: S/ 8.90
+   Pedido 7: CodPedido 883970, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 8, Subtotal: S/ 468.00
+   Pedido 8: CodPedido 883970, Plato AD-53814 (PALTA), Cantidad: 4, Subtotal: S/ 39.60
+Monto total del cliente: S/ 1274.80
+
+Cliente 82: CALIXTO TOMASICHE MONICA DORIS (DNI 31526241)
+Distrito: LO4328
+Pedidos realizados: 1
+  --- Pedidos ---
+   Pedido 1: CodPedido 202599, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 10, Subtotal: S/ 739.00
+Monto total del cliente: S/ 739.00
+
+Cliente 83: ANTEZANO SEGURA TERESA DELIA (DNI 80740735)
+Distrito: LO4328
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 845288, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 6, Subtotal: S/ 131.40
+   Pedido 2: CodPedido 845288, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 88.50
+   Pedido 3: CodPedido 845288, Plato BE-39695 (SANGRIA), Cantidad: 9, Subtotal: S/ 332.10
+   Pedido 4: CodPedido 845288, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 9, Subtotal: S/ 206.10
+   Pedido 5: CodPedido 845288, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 3, Subtotal: S/ 100.50
+   Pedido 6: CodPedido 845288, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 9, Subtotal: S/ 467.10
+Monto total del cliente: S/ 1325.70
+
+Cliente 84: ZARATE DEL POZO HUMBERTO ANTONIO (DNI 73518695)
+Distrito: LE7894
+Pedidos realizados: 7
+  --- Pedidos ---
+   Pedido 1: CodPedido 427178, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 2: CodPedido 427178, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 3, Subtotal: S/ 65.70
+   Pedido 3: CodPedido 427178, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 2, Subtotal: S/ 103.80
+   Pedido 4: CodPedido 427178, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 33.50
+   Pedido 5: CodPedido 427178, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 8, Subtotal: S/ 223.20
+   Pedido 6: CodPedido 427178, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 1, Subtotal: S/ 49.90
+   Pedido 7: CodPedido 427178, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 8, Subtotal: S/ 591.20
+Monto total del cliente: S/ 1090.20
+
+Cliente 85: GAVIDIA MENDOZA RONALD JOHNNY (DNI 76595144)
+Distrito: LE7894
+Pedidos realizados: 1
+  --- Pedidos ---
+   Pedido 1: CodPedido 965791, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 5, Subtotal: S/ 114.50
+Monto total del cliente: S/ 114.50
+
+Cliente 86: PATINO CHUNG BEATRIZ ROSA (DNI 37769366)
+Distrito: LO9222
+Pedidos realizados: 8
+  --- Pedidos ---
+   Pedido 1: CodPedido 900459, Plato BR-15621 (1/4 POLLO BBQ/HOT PAPAS ENSALADA), Cantidad: 8, Subtotal: S/ 268.00
+   Pedido 2: CodPedido 900459, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 9, Subtotal: S/ 224.10
+   Pedido 3: CodPedido 900459, Plato PI-15608 (PIQUEOS CHICHARRON DE POLLO), Cantidad: 8, Subtotal: S/ 223.20
+   Pedido 4: CodPedido 900459, Plato EN-77910 (ENSALADA DELICIA MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 91.60
+   Pedido 5: CodPedido 900459, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 499.00
+   Pedido 6: CodPedido 900459, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 7, Subtotal: S/ 363.30
+   Pedido 7: CodPedido 900459, Plato BE-39141 (CHICHA 1 LITRO), Cantidad: 10, Subtotal: S/ 219.00
+   Pedido 8: CodPedido 900459, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 9, Subtotal: S/ 665.10
+Monto total del cliente: S/ 2553.30
+
+Cliente 87: SEGURA MALCA RONY  (DNI 40711531)
+Distrito: LE3053
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 288755, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 5, Subtotal: S/ 302.50
+   Pedido 2: CodPedido 288755, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 6, Subtotal: S/ 221.40
+   Pedido 3: CodPedido 288755, Plato BR-15921 (1/4 POLLO PAPAS ENSALADA), Cantidad: 9, Subtotal: S/ 265.50
+   Pedido 4: CodPedido 288755, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 5: CodPedido 288755, Plato AD-53991 (HUEVO), Cantidad: 5, Subtotal: S/ 19.50
+   Pedido 6: CodPedido 288755, Plato EN-73410 (ANTICUCHO-POLLO), Cantidad: 2, Subtotal: S/ 25.80
+Monto total del cliente: S/ 930.30
+
+Cliente 88: FARFAN FALCON ELIZABETH KARIN (DNI 82583252)
+Distrito: LO9443
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 138781, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 10, Subtotal: S/ 155.00
+   Pedido 2: CodPedido 138781, Plato EN-77214 (ENSALADA FRESCA GRANDE), Cantidad: 1, Subtotal: S/ 22.90
+   Pedido 3: CodPedido 138781, Plato PO-11172 (TORTA DE NARANJA), Cantidad: 4, Subtotal: S/ 63.60
+   Pedido 4: CodPedido 138781, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 2, Subtotal: S/ 97.80
+   Pedido 5: CodPedido 138781, Plato BR-15823 (1/4 POLLO BBQ/HOT ENCAMOTADO), Cantidad: 8, Subtotal: S/ 295.20
+   Pedido 6: CodPedido 138781, Plato AD-53991 (HUEVO), Cantidad: 3, Subtotal: S/ 11.70
+   Pedido 7: CodPedido 138781, Plato EN-77493 (ENSALADA CESARS MEDIANA CON POLLO), Cantidad: 4, Subtotal: S/ 95.60
+   Pedido 8: CodPedido 138781, Plato EN-77606 (ENSALADA HONEY GRANDE SOLO), Cantidad: 10, Subtotal: S/ 249.00
+   Pedido 9: CodPedido 138781, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+Monto total del cliente: S/ 1474.80
+
+Cliente 89: SUCHERO EPIQUEN EDGAR JAVIER (DNI 31712526)
+Distrito: LE7040
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 508029, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 2, Subtotal: S/ 61.80
+   Pedido 2: CodPedido 508029, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 1, Subtotal: S/ 32.50
+   Pedido 3: CodPedido 508029, Plato PI-15392 (PIQUEOS ANTICUCHO), Cantidad: 2, Subtotal: S/ 37.80
+   Pedido 4: CodPedido 508029, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 4, Subtotal: S/ 190.00
+   Pedido 5: CodPedido 508029, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 4, Subtotal: S/ 75.60
+   Pedido 6: CodPedido 508029, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 2, Subtotal: S/ 25.80
+   Pedido 7: CodPedido 508029, Plato EN-53265 (ANTICUCHO), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 8: CodPedido 508029, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 3, Subtotal: S/ 158.70
+   Pedido 9: CodPedido 508029, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+Monto total del cliente: S/ 672.60
+
+Cliente 90: ASTETE RIOS CESAR WILVER (DNI 32352361)
+Distrito: LN2958
+Pedidos realizados: 4
+  --- Pedidos ---
+   Pedido 1: CodPedido 210256, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 8, Subtotal: S/ 380.00
+   Pedido 2: CodPedido 210256, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 3, Subtotal: S/ 92.70
+   Pedido 3: CodPedido 210256, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 2, Subtotal: S/ 65.00
+   Pedido 4: CodPedido 210256, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 5, Subtotal: S/ 64.50
+Monto total del cliente: S/ 602.20
+
+Cliente 91: MEREL SALAZAR ANNIE LOURDES (DNI 51808448)
+Distrito: LO3562
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 773053, Plato BR-15142 (1/2 POLLO BBQ/HOT A LO BRAVO), Cantidad: 1, Subtotal: S/ 52.90
+   Pedido 2: CodPedido 773053, Plato AP-73500 (CHORIZOS COCKTAIL), Cantidad: 1, Subtotal: S/ 12.90
+   Pedido 3: CodPedido 773053, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 2, Subtotal: S/ 95.00
+   Pedido 4: CodPedido 773053, Plato BR-15136 (1/2 POLLO BBQ/HOT ANTICUCHO), Cantidad: 8, Subtotal: S/ 484.00
+   Pedido 5: CodPedido 773053, Plato EN-77549 (ENSALADA COCIDA REGULAR), Cantidad: 8, Subtotal: S/ 151.20
+   Pedido 6: CodPedido 773053, Plato BR-15864 (1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA), Cantidad: 7, Subtotal: S/ 227.50
+   Pedido 7: CodPedido 773053, Plato EN-77572 (ENSALADA FRESCA REGULAR), Cantidad: 5, Subtotal: S/ 94.50
+   Pedido 8: CodPedido 773053, Plato ES-31815 (MOLLEJITAS AL PLATO), Cantidad: 8, Subtotal: S/ 247.20
+   Pedido 9: CodPedido 773053, Plato BE-39584 (COCA COLA 1 LITRO), Cantidad: 2, Subtotal: S/ 31.00
+Monto total del cliente: S/ 1396.20
+
+Cliente 92: SUELDO RUIZ ANTONIO  (DNI 46466842)
+Distrito: LS8594
+Pedidos realizados: 5
+  --- Pedidos ---
+   Pedido 1: CodPedido 127019, Plato BE-39695 (SANGRIA), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 2: CodPedido 127019, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 195.60
+   Pedido 3: CodPedido 127019, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 1, Subtotal: S/ 32.90
+   Pedido 4: CodPedido 127019, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 5: CodPedido 127019, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 4, Subtotal: S/ 99.60
+Monto total del cliente: S/ 663.90
+
+Cliente 93: DIAZ REYES WALTER EDGAR (DNI 65308391)
+Distrito: LN2958
+Pedidos realizados: 7
+  --- Pedidos ---
+   Pedido 1: CodPedido 623142, Plato BE-39695 (SANGRIA), Cantidad: 2, Subtotal: S/ 73.80
+   Pedido 2: CodPedido 623142, Plato AD-53546 (CHOCLO), Cantidad: 6, Subtotal: S/ 59.40
+   Pedido 3: CodPedido 623142, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 1, Subtotal: S/ 51.90
+   Pedido 4: CodPedido 623142, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 5: CodPedido 623142, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 4, Subtotal: S/ 62.00
+   Pedido 6: CodPedido 623142, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 2, Subtotal: S/ 25.00
+   Pedido 7: CodPedido 623142, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 3, Subtotal: S/ 74.70
+Monto total del cliente: S/ 511.30
+
+Cliente 94: LAU BACA MONICA TERESA (DNI 56100384)
+Distrito: LE3716
+Pedidos realizados: 7
+  --- Pedidos ---
+   Pedido 1: CodPedido 568663, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 7, Subtotal: S/ 234.50
+   Pedido 2: CodPedido 568663, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 10, Subtotal: S/ 499.00
+   Pedido 3: CodPedido 568663, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 6, Subtotal: S/ 197.40
+   Pedido 4: CodPedido 568663, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 7, Subtotal: S/ 342.30
+   Pedido 5: CodPedido 568663, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 3, Subtotal: S/ 94.50
+   Pedido 6: CodPedido 568663, Plato BE-39695 (SANGRIA), Cantidad: 10, Subtotal: S/ 369.00
+   Pedido 7: CodPedido 568663, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 9, Subtotal: S/ 139.50
+Monto total del cliente: S/ 1876.20
+
+Cliente 95: URBINA HIJAR RAFAEL  (DNI 52650965)
+Distrito: LO1657
+Pedidos realizados: 6
+  --- Pedidos ---
+   Pedido 1: CodPedido 866198, Plato AD-53546 (CHOCLO), Cantidad: 3, Subtotal: S/ 29.70
+   Pedido 2: CodPedido 866198, Plato BE-39695 (SANGRIA), Cantidad: 5, Subtotal: S/ 184.50
+   Pedido 3: CodPedido 866198, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 4: CodPedido 866198, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 9, Subtotal: S/ 112.50
+   Pedido 5: CodPedido 866198, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 2, Subtotal: S/ 49.80
+   Pedido 6: CodPedido 866198, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+Monto total del cliente: S/ 618.50
+
+Cliente 96: URBINA CASTILLO HELI  (DNI 64262396)
+Distrito: LN7093
+Pedidos realizados: 2
+  --- Pedidos ---
+   Pedido 1: CodPedido 401565, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 2: CodPedido 401565, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 10, Subtotal: S/ 329.00
+Monto total del cliente: S/ 453.50
+
+Cliente 97: FALCON PRECIADO ALEX HENRY (DNI 22303979)
+Distrito: LS8280
+Pedidos realizados: 5
+  --- Pedidos ---
+   Pedido 1: CodPedido 410319, Plato BE-39695 (SANGRIA), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 2: CodPedido 410319, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 3: CodPedido 410319, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 4, Subtotal: S/ 195.60
+   Pedido 4: CodPedido 410319, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 5: CodPedido 410319, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 6, Subtotal: S/ 93.00
+Monto total del cliente: S/ 788.90
+
+Cliente 98: DE LA CUBA JUGO LUCERO DELICIA (DNI 51108372)
+Distrito: LO4439
+Pedidos realizados: 2
+  --- Pedidos ---
+   Pedido 1: CodPedido 250387, Plato BE-39431 (CERVEZA CUSQUENA), Cantidad: 3, Subtotal: S/ 37.50
+   Pedido 2: CodPedido 250387, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 1, Subtotal: S/ 51.90
+Monto total del cliente: S/ 89.40
+
+Cliente 99: DURAND MEZA WALDEMAR EDGARD (DNI 38986512)
+Distrito: LE3716
+Pedidos realizados: 2
+  --- Pedidos ---
+   Pedido 1: CodPedido 451022, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 8, Subtotal: S/ 391.20
+   Pedido 2: CodPedido 451022, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 8, Subtotal: S/ 268.00
+Monto total del cliente: S/ 659.20
+
+Cliente 100: SALAS URBINA MAGDA CARMEN (DNI 63230770)
+Distrito: LE7894
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 114303, Plato EN-77381 (ENSALADA HONEY GRANDE CON POLLO), Cantidad: 5, Subtotal: S/ 164.50
+   Pedido 2: CodPedido 114303, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 5, Subtotal: S/ 77.50
+   Pedido 3: CodPedido 114303, Plato BR-15724 (1/4 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 283.50
+   Pedido 4: CodPedido 114303, Plato PO-11751 (MAZAMORRA MORADA), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 5: CodPedido 114303, Plato BE-39695 (SANGRIA), Cantidad: 7, Subtotal: S/ 258.30
+   Pedido 6: CodPedido 114303, Plato BR-15745 (1/2 POLLO PARRILLERO ORIGINAL- ARROCERO), Cantidad: 3, Subtotal: S/ 146.70
+   Pedido 7: CodPedido 114303, Plato BR-15116 (1/2 POLLO ENCAMOTADO), Cantidad: 9, Subtotal: S/ 449.10
+   Pedido 8: CodPedido 114303, Plato EN-77703 (ENSALADA SENSACION GRANDE SOLO), Cantidad: 5, Subtotal: S/ 124.50
+   Pedido 9: CodPedido 114303, Plato BR-15578 (1/4 POLLO A LO BRAVO), Cantidad: 4, Subtotal: S/ 134.00
+Monto total del cliente: S/ 1727.10
+
+Cliente 101: VILLEGAS LEIVA FELICITA  (DNI 86297512)
+Distrito: LO2220
+Pedidos realizados: 9
+  --- Pedidos ---
+   Pedido 1: CodPedido 381603, Plato BR-15197 (1/2 POLLO ARROCERO), Cantidad: 9, Subtotal: S/ 427.50
+   Pedido 2: CodPedido 381603, Plato PO-11471 (1 BOLA DE HELADO), Cantidad: 10, Subtotal: S/ 89.00
+   Pedido 3: CodPedido 381603, Plato BR-15479 (1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO), Cantidad: 3, Subtotal: S/ 155.70
+   Pedido 4: CodPedido 381603, Plato BR-15525 (1/2 POLLO ANTICUCHO), Cantidad: 2, Subtotal: S/ 117.00
+   Pedido 5: CodPedido 381603, Plato EN-53265 (ANTICUCHO), Cantidad: 10, Subtotal: S/ 129.00
+   Pedido 6: CodPedido 381603, Plato BE-39160 (INKA COLA 1 LITRO), Cantidad: 1, Subtotal: S/ 15.50
+   Pedido 7: CodPedido 381603, Plato AD-53814 (PALTA), Cantidad: 9, Subtotal: S/ 89.10
+   Pedido 8: CodPedido 381603, Plato BE-39955 (CASILLERO DEL DIABLO TINTO), Cantidad: 7, Subtotal: S/ 517.30
+   Pedido 9: CodPedido 381603, Plato AD-53518 (PAPAS FRITAS), Cantidad: 7, Subtotal: S/ 111.30
+Monto total del cliente: S/ 1651.40
