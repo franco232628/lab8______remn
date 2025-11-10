@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Downloads/TP_SOL_LAB08_2025_1/cmake-build-debug/CMakeFiles/TP_SOL_LAB08_2025_1.dir
+C:/Users/GRINGO/Downloads/TP_SOL_LAB08_2025_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Downloads/TP_SOL_LAB08_2025_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
